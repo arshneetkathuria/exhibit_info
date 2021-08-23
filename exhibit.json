@@ -14,7 +14,7 @@
         "status": ""
       },
       "floor": {
-        "name": "LGF",
+        "name": "FF",
         "description": "LGF",
         "image": "",
         "tenure": "",
@@ -258,7 +258,7 @@
         "status": ""
       },
       "floor": {
-        "name": "LGF",
+        "name": "FF",
         "description": "FF",
         "image": "",
         "tenure": "",
@@ -380,7 +380,7 @@
         "status": ""
       },
       "floor": {
-        "name": "LGF",
+        "name": "SF",
         "description": "FF",
         "image": "",
         "tenure": "",
@@ -502,7 +502,7 @@
         "status": ""
       },
       "floor": {
-        "name": "LGF",
+        "name": "SF",
         "description": "FF",
         "image": "",
         "tenure": "",
