@@ -84,13 +84,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -147,13 +141,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -207,13 +195,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -267,13 +249,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -328,13 +304,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -389,13 +359,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -451,13 +415,6 @@
       "type": "",
       "audio_mp3_array": [
         {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
-        {
           "name": "English",
           "text": "",
           "mp3": "",
@@ -511,13 +468,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+      
         {
           "name": "English",
           "text": "",
@@ -572,13 +523,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -633,13 +578,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+      
         {
           "name": "English",
           "text": "",
@@ -694,13 +633,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -755,13 +688,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -816,13 +743,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -877,13 +798,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+      
         {
           "name": "English",
           "text": "",
@@ -938,13 +853,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+      
         {
           "name": "English",
           "text": "",
@@ -999,13 +908,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -1060,13 +963,7 @@
       },
       "type": "",
       "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
+       
         {
           "name": "English",
           "text": "",
@@ -1129,13 +1026,6 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
       ],
       "duration": 45,
@@ -1190,14 +1080,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 25,
       "tag": [
@@ -1253,14 +1137,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 5,
       "tag": [
@@ -1313,14 +1191,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+      
       ],
       "duration": 10,
       "tag": [
@@ -1373,14 +1245,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+      
       ],
       "duration": 10,
       "tag": [
@@ -1430,13 +1296,6 @@
       "audio_mp3_array": [
         {
           "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
-        {
-          "name": "English",
           "text": "",
           "mp3": "",
           "active": 1,
@@ -1495,14 +1354,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+      
       ],
       "duration": 10,
       "tag": [
@@ -1556,14 +1409,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -1613,13 +1460,6 @@
       "audio_mp3_array": [
         {
           "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
-        {
-          "name": "English",
           "text": "",
           "mp3": "",
           "active": 1,
@@ -1678,14 +1518,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -1735,13 +1569,6 @@
       "audio_mp3_array": [
         {
           "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
-        {
-          "name": "English",
           "text": "",
           "mp3": "",
           "active": 1,
@@ -1800,14 +1627,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -1861,14 +1682,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -1922,14 +1737,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+     
       ],
       "duration": 10,
       "tag": [
@@ -1983,14 +1792,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2044,14 +1847,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+        
       ],
       "duration": 10,
       "tag": [
@@ -2105,14 +1902,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2166,14 +1957,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2230,14 +2015,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+       
       ],
       "duration": 45,
       "tag": [
@@ -2291,14 +2070,8 @@
           "mp3": "",
           "active": 1,
           "status": ""
-        },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
         }
+      
       ],
       "duration": 25,
       "tag": [
@@ -2350,13 +2123,6 @@
       "audio_mp3_array": [
         {
           "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        },
-        {
-          "name": "English",
           "text": "",
           "mp3": "",
           "active": 1,
@@ -2415,13 +2181,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2475,13 +2235,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2536,13 +2290,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2597,13 +2345,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2658,13 +2400,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2719,13 +2455,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2780,13 +2510,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+      
       ],
       "duration": 10,
       "tag": [
@@ -2841,13 +2565,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2902,13 +2620,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -2963,13 +2675,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -3024,13 +2730,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -3085,13 +2785,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -3146,13 +2840,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+        
       ],
       "duration": 10,
       "tag": [
@@ -3207,13 +2895,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
@@ -3268,13 +2950,7 @@
           "active": 1,
           "status": ""
         },
-        {
-          "name": "English",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
+       
       ],
       "duration": 10,
       "tag": [
