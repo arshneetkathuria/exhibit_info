@@ -89,7 +89,7 @@
           "status": ""
         }
       ],
-      "duration": 5:08,
+      "duration": "5:08",
       "tag": [
         {
           "name": "Special Attraction",
@@ -141,7 +141,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -193,7 +193,7 @@
           "status": ""
         }
       ],
-      "duration": 5:08,
+      "duration": "5:08",
       "tag": [
         {
           "name": "Special Attraction",
@@ -245,7 +245,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -297,7 +297,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration":"" ,
       "tag": [
         {
           "name": "Special Attraction",
@@ -349,7 +349,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration":"" ,
       "tag": [
         {
           "name": "Special Attraction",
@@ -401,7 +401,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -453,7 +453,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration":"" ,
       "tag": [
         {
           "name": "Special Attraction",
@@ -505,7 +505,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -559,7 +559,7 @@
           "status": ""
         }
       ],
-      "duration": 2:17,
+      "duration": "2:17",
       "tag": [
         {
           "name": "Special Attraction",
@@ -611,7 +611,7 @@
           "status": ""
         }
       ],
-      "duration": 5:08,
+      "duration": "5:08",
       "tag": [
         {
           "name": "Special Attraction",
@@ -663,7 +663,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration":"" ,
       "tag": [
         {
           "name": "Special Attraction",
@@ -715,7 +715,7 @@
           "status": ""
         }
       ],
-      "duration": 5:08,
+      "duration": "5:08",
       "tag": [
         {
           "name": "Special Attraction",
@@ -767,7 +767,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration":"" ,
       "tag": [
         {
           "name": "Special Attraction",
@@ -819,7 +819,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -871,7 +871,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -923,7 +923,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -975,7 +975,7 @@
           "status": ""
         }
       ],
-      "duration": ,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
@@ -1027,945 +1027,7 @@
           "status": ""
         }
       ],
-      "duration": ,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    }
-  ],
-  "ur": [
-    {
-      "id": 1,
-      "name": "جدید ہندوستان کے بنانے والے",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/01.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "LGF",
-        "description": "LGF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 45,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 2,
-      "name": "وقت کی مشین",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/02.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "GF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 25,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 3,
-      "name": "واقفیت",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/03.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "FF",
-        "description": "GF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 5,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 4,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/03.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "FF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 5,
-      "name": "اندرا گاندھی سرنگ",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/01.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 6,
-      "name": "جنگ کی جنگ",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/02.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "GF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 7,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/03.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 8,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/01.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "GF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 9,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/02.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 10,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/03.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "GF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 11,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/01.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 12,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/02.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "GF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 13,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/03.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "GF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 14,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/01.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "LGF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 15,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/02.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 16,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/03.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "LGF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 17,
-      "name": "بچوں کی منگنی",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/01.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "SF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
-      "tag": [
-        {
-          "name": "Special Attraction",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "attraction": [
-        {
-          "name": "7 D Theatre",
-          "description": "",
-          "image": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "active": 1,
-      "status": "open"
-    },
-    {
-      "id": 18,
-      "name": "مردہ باد",
-      "description": "Exhibit on Modern india",
-      "image": "assets/images/exhibits/02.png",
-      "color": 2,
-      "zone": {
-        "name": "Narendra Modi",
-        "description": "",
-        "active": 1,
-        "status": ""
-      },
-      "floor": {
-        "name": "GF",
-        "description": "FF",
-        "image": "",
-        "tenure": "",
-        "active": 1,
-        "status": ""
-      },
-      "type": "",
-      "audio_mp3_array": [
-        {
-          "name": "Hindi",
-          "text": "",
-          "mp3": "",
-          "active": 1,
-          "status": ""
-        }
-      ],
-      "duration": 10,
+      "duration": "",
       "tag": [
         {
           "name": "Special Attraction",
