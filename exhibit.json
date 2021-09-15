@@ -1391,7 +1391,7 @@
           "status": ""
         }
       ],
-      "duration": 0.09,
+      "duration": "0.09",
       "tag": [
         {
           "name": "Special Attraction",
