@@ -1,6 +1,110 @@
 {
   "en": [
     {
+      "id": 11,
+      "name": "Heading towards Early Life Zone",
+      "description": "",
+      "image": "assets/images/exhibits/01C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "11e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/11e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:14",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 12,
+      "name": "The entrance to Early Life Zone ",
+      "description": "",
+      "image": "assets/images/exhibits/01P.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "12e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/12e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:10",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
       "id": 1,
       "name": "Early Life",
       "description": "Pamulaparti Venkata Narasimha Rao was born on 28 June 1921 at his maternal grandfather’s house in a village called Laknepalli at Warangal, in the Princely State of Hyderabad. His mother’s name was Rukmabayamma and father’s name was P. Sitaram Rao. They lived at Vangara in Karimnagar district. Their ancestors had migrated from Pamulaparti in Medak district to this village. Rao used Pamulaparti as a geographical patronymic in his name. \n\nRao was three years old, when he was adopted by relatives Ratnabayamma and P. Ranga Rao, a wealthy and childless couple. This affluent family owned 1200 acres of land in Vangara. That was the era when the practice of child marriage was prevalent. Hence, at the age of seven, Rao was wed to Satyamma. Aiming for higher education, Rao joined Osmania University for a B.A. programme. Then studied at Hislop College in Nagpur, followed by acquiring masters in law from Fergusson College in Pune. In the 1940’s, young Rao co-edited a weekly magazine called Kakatiya Patrika, before moving into legal practice as a junior in the chamber of Burgula Ramakrishna Rao, who later became chief minister of Hyderabad State. \n\nThe last Nizam of Hyderabad, Osman Ali Khan, was living in the delusion that he could keep Hyderabad as his feudal fiefdom even after India’s independence from the British rule in 1947. Narasimha Rao joined the “Vande Mataram” liberation struggle against the Nizam, which was led by Swami Ramananda Tirth, who was an educationist, reformer, spiritualist and president of the Hyderabad State Congress. Rao saw a mentor in Swami. In 1948, the Nizam was driven out by the power of struggle movement and armed action initiated by India’s home minister Sardar Vallabhbhai Patel. Hyderabad became one of the states of the Union of India. The highest post of the Republic of India was waiting for Narasimha Rao. But till when? The time was yet to tell!",
@@ -38,6 +142,110 @@
         }
       ],
       "duration": "2:17",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+     {
+      "id": 13,
+      "name": "Approaching Political Life",
+      "description": "",
+      "image": "assets/images/exhibits/02C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "13e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/13e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:19",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 14,
+      "name": "The entrance to Political Life Zone",
+      "description": "",
+      "image": "assets/images/exhibits/02P.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "14e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/14e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:14",
       "tag": [
         {
           "name": "Special Attraction",
@@ -111,6 +319,110 @@
       "active": 1,
       "status": "open"
     },
+     {
+      "id": 15,
+      "name": "Heading towards Economic Reforms",
+      "description": "",
+      "image": "assets/images/exhibits/03C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "15e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/15e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:12",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 16,
+      "name": "The entrance of Economic Reforms",
+      "description": "",
+      "image": "assets/images/exhibits/03P.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "16e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/16e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:26",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 3,
       "name": "Economic Reforms",
@@ -142,6 +454,58 @@
         }
       ],
       "duration": "7:00",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+     {
+      "id": 17,
+      "name": "Moving towards Foreign Policy",
+      "description": "",
+      "image": "assets/images/exhibits/04C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "17e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/17e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:25",
       "tag": [
         {
           "name": "Special Attraction",
@@ -215,6 +579,58 @@
       "active": 1,
       "status": "open"
     },
+     {
+      "id": 18,
+      "name": "Heading towards Missile Programme",
+      "description": "",
+      "image": "assets/images/exhibits/05C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "18e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/18e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:21",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 5,
       "name": "The Missile Programme",
@@ -246,6 +662,110 @@
         }
       ],
       "duration": "0:39",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+     {
+      "id": 19,
+      "name": "Heading towards The Ayodhya Dispute, The Panchayati Raj & Nagarpalika Acts and The Bombay Blast",
+      "description": "",
+      "image": "assets/images/exhibits/06C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "19e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/19e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:07",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 20,
+      "name": "The entrance of The Ayodhya Dispute, The Panchayati Raj & Nagarpalika Acts and The Bombay Blast",
+      "description": "",
+      "image": "assets/images/exhibits/06.1P.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "20e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/20e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:11",
       "tag": [
         {
           "name": "Special Attraction",
@@ -371,6 +891,58 @@
       "active": 1,
       "status": "open"
     },
+      {
+      "id": 21,
+      "name": "Moving towards the Bombay Blast",
+      "description": "",
+      "image": "assets/images/exhibits/06.3P.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "21e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/21e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:08",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 8,
       "name": "The Bombay Blast",
@@ -423,6 +995,110 @@
       "active": 1,
       "status": "open"
     },
+      {
+      "id": 22,
+      "name": "Heading towards The Punjab Problem & The Assassination of Beant Singh",
+      "description": "",
+      "image": "assets/images/exhibits/07C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "22e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/22e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:10",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+     {
+      "id": 23,
+      "name": "Before leaving the zone of Punjab Problem & the Assassination of Beant Singh",
+      "description": "",
+      "image": "assets/images/exhibits/07P.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "23e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/23e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:09",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 9,
       "name": "The Punjab Problem",
@@ -454,6 +1130,110 @@
         }
       ],
       "duration": "0:29",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+     {
+      "id": 24,
+      "name": "Moving towards The Securities Scam, No-Confidence Motion, The JMM Donation Case, Defeat in 1996 Elections and Demise",
+      "description": "",
+      "image": "assets/images/exhibits/08C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "24e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/24e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:13",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 25,
+      "name": "Exit",
+      "description": "",
+      "image": "assets/images/exhibits/09C.png",
+      "color": 2,
+      "zone": {
+        "name": "Shri P.V. Narasimha Rao",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "25e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/25e.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:11",
       "tag": [
         {
           "name": "Special Attraction",
@@ -530,6 +1310,110 @@
   ],
   "hi": [
     {
+      "id": 11,
+      "name": "जीवन परिचय की ओर चलें",
+      "description": "",
+      "image": "assets/images/exhibits/01C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "11h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/011h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:12",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 12,
+      "name": "जीवन परिचय के ज़ोन में प्रवेश",
+      "description": "",
+      "image": "assets/images/exhibits/01P.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "12h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/012h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": 0.09,
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
       "id": 1,
       "name": "प्रारंभिक जीवन",
       "description": "पामुलापर्ती वेंकट नरसिम्हा राव का जन्म 28 जून, 1921 को हैदराबाद रियासत के वारंगल के लखनपल्ली गाँव में उनके नाना के घर हुआ था। उनकी माता का नाम रुक्मिनिअम्मा और पिता का नाम पी। सीताराम राव था। उनका घर करीमनगर जिले के वंगारा में था। उनके पूर्वज मेडक में पामुलापर्ती से विस्थापित होकर इस गांव में आए थे, राव ने अपने नाम में पामुलापर्ती को अपने भौगोलिक कुलसूचक नाम के रूप में इस्तेमाल किया। \n\nराव तीन वर्ष के थे, जब उनके एक धनी लेकिन निःसंतान रिश्तेदार दम्पति – रत्नाबायम्मा और पी। रंगा राव ने उनको गोद लिया। इस समृद्ध परिवार के पास वंगारा में 1200 एकड़ जमीन थी। उस ज़माने में बाल विवाह का प्रचलन था। सात वर्ष की आयु में सत्यम्मा के साथ राव का विवाह हुआ। उच्च शिक्षा के इच्छुक राव, बी।ए। की पढ़ाई करने हैदराबाद के उस्मानिया विश्वविद्यालय गये। फिर नागपुर में हिस्लोप कॉलेज में पढ़े और पुणे में फर्ग्युसन कॉलेज से कानून में स्नातकोत्तर किया। 1940 के दशक में युवा राव ने 'काकतीय' नामक साप्ताहिक पत्रिका का सहसंपादन किया। इसके बाद बुर्गुला रामकृष्ण राव के चेंबर में जूनियर के रूप में वकालत शुरू की। बाद में बुर्गुला रामकृष्ण राव हैदराबाद राज्य के मुख्यमंत्री बने थे। \n\nहैदराबाद के अंतिम निज़ाम, उस्मान अली ख़ान अपने निज़ामी भ्रम में थे कि,1947 में ब्रिटिश शासन से आज़ादी के बाद भी वे हैदराबाद को अपनी सामंती जागीर बनाये रखेंगे। नरसिम्हा राव, निज़ाम के ख़िलाफ़ “वन्दे मातरम्” मुक्ति संघर्ष में शामिल हुए। जिसका नेतृत्व एक शिक्षाविद, सुधारक, आध्यात्मवादी और हैदराबाद राज्य कांग्रेस के अध्यक्ष स्वामी रामानंद तीर्थ ने किया। राव ने स्वामी जी को अपना गुरु माना। 1948 में आंदोलन की ताकत और गृहमंत्री सरदार वल्लभभाई पटेल की सैन्य कार्रवाई ने निज़ाम को हटाया और हैदराबाद भारतीय गणराज्य में विलीन हुआ। भारतीय गणतंत्र का सबसे बड़ा पद नरसिम्हा राव की प्रतीक्षा कर रहा था। लेकिन ये तो समय ही बताने वाला था।",
@@ -560,6 +1444,110 @@
         }
       ],
       "duration": "2:17",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+      {
+      "id": 13,
+      "name": "राजनीतिक जीवन की ओर",
+      "description": "",
+      "image": "assets/images/exhibits/02C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "13h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/013h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:19",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 14,
+      "name": "राजनीतिक जीवन के ज़ोन में प्रवेश",
+      "description": "",
+      "image": "assets/images/exhibits/02P.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "14h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/014h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:11",
       "tag": [
         {
           "name": "Special Attraction",
@@ -633,6 +1621,110 @@
       "active": 1,
       "status": "open"
     },
+     {
+      "id": 15,
+      "name": "आर्थिक सुधारों की दिशा में चलें",
+      "description": "",
+      "image": "assets/images/exhibits/03C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "15h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/015h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:12",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 16,
+      "name": "आर्थिक सुधारों के ज़ोन में प्रवेश",
+      "description": "",
+      "image": "assets/images/exhibits/03P.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी.वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "16h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/016h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:26",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 3,
       "name": "आर्थिक सुधार",
@@ -664,6 +1756,58 @@
         }
       ],
       "duration": "7:00",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+     {
+      "id": 17,
+      "name": "विदेश नीति के ज़ोन में चलें",
+      "description": "",
+      "image": "assets/images/exhibits/04C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "17h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/017h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:28",
       "tag": [
         {
           "name": "Special Attraction",
@@ -737,6 +1881,58 @@
       "active": 1,
       "status": "open"
     },
+     {
+      "id": 18,
+      "name": "मिसाइल कार्यक्रम में प्रवेश करें",
+      "description": "",
+      "image": "assets/images/exhibits/05C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "18h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/018h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:22",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 5,
       "name": "मिसाइल कार्यक्रम",
@@ -768,6 +1964,110 @@
         }
       ],
       "duration": "0:39",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 19,
+      "name": "अयोध्या विवाद, पंचायती राज एवं नगरपालिका अधिनियम और बंबई बम ब्लास्ट की प्रस्तुतियों की ओर चलें",
+      "description": "",
+      "image": "assets/images/exhibits/06C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "19h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/19h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:06",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 20,
+      "name": "अयोध्या विवाद, पंचायती राज एवं नगरपालिका अधिनियम और बंबई बम ब्लास्ट के ज़ोन में प्रवेश",
+      "description": "",
+      "image": "assets/images/exhibits/06.1P.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "20h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/20h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:11",
       "tag": [
         {
           "name": "Special Attraction",
@@ -893,6 +2193,58 @@
       "active": 1,
       "status": "open"
     },
+      {
+      "id": 21,
+      "name": "बंबई बम ब्लास्ट के ज़ोन की ओर चलें",
+      "description": "",
+      "image": "assets/images/exhibits/06.3P.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "21h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/21h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:08",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
     {
       "id": 8,
       "name": "बंबई बम ब्लास्ट",
@@ -946,6 +2298,110 @@
       "status": "open"
     },
     {
+      "id": 22,
+      "name": "पंजाब समस्या एवं बेअंत सिंह की हत्या के ज़ोन में प्रवेश करें",
+      "description": "",
+      "image": "assets/images/exhibits/07C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "22h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/22h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:06",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 23,
+      "name": "पंजाब समस्या एवं बेअंत सिंह की हत्या के ज़ोन से बाहर आने पर",
+      "description": "",
+      "image": "assets/images/exhibits/07P.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "23h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/23h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:10",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
       "id": 9,
       "name": "पंजाब समस्या",
       "description": "वर्षों से पंजाब अलगाववाद की समस्या में उलझा था। प्रधानमंत्री राव ने पंजाब में शांति-स्थापना के अनेक प्रयास किये। 1992 में श्री बेअंत सिंह प्रदेश के मुख्यमंत्री बने और सबसे क़ाबिल पुलिस अधिकारियों को राज्य की कमान सौंपी गई। हालात सुधर रहे थे, लेकिन 31 अगस्त, 1995 को एक कार में बम-विस्फोट करके बेअंत सिंह की हत्या कर दी गई।",
@@ -976,6 +2432,110 @@
         }
       ],
       "duration": "0:29",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 24,
+      "name": "प्रतिभूति घोटाला, अविश्वास-प्रस्ताव, जे.एम.एम. चंदा मामला, 1996 के चुनावों में पराजय की प्रस्तुतियों को देखते हुए निधन के ज़ोन की ओर चलें",
+      "description": "",
+      "image": "assets/images/exhibits/08C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "24h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/24h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:13",
+      "tag": [
+        {
+          "name": "Special Attraction",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "attraction": [
+        {
+          "name": "7 D Theatre",
+          "description": "",
+          "image": "",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "active": 1,
+      "status": "open"
+    },
+    {
+      "id": 25,
+      "name": "निकास",
+      "description": "",
+      "image": "assets/images/exhibits/09C.png",
+      "color": 2,
+      "zone": {
+        "name": "श्री पी. वी. नरसिम्हा राव",
+        "description": "",
+        "active": 1,
+        "status": ""
+      },
+      "floor": {
+        "name": "GF",
+        "description": "Ground Floor",
+        "image": "",
+        "tenure": "",
+        "active": 1,
+        "status": ""
+      },
+      "type": "",
+      "audio_mp3_array": [
+        {
+          "name": "25h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/25h.mp3",
+          "active": 1,
+          "status": ""
+        }
+      ],
+      "duration": "00:11",
       "tag": [
         {
           "name": "Special Attraction",
