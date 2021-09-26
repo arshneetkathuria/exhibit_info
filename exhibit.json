@@ -552,7 +552,7 @@
         {
           "name": "11e.mp3",
           "text": "",
-          "mp3": "assets/audio/exhibits/11e.mp3",
+          "mp3": "assets/audio/exhibits/11contextuale.mp3",
           "active": 1,
           "status": ""
         }
@@ -1854,7 +1854,7 @@
         {
           "name": "11h.mp3",
           "text": "",
-          "mp3": "assets/audio/exhibits/011h.mp3",
+          "mp3": "assets/audio/exhibits/011contextualh.mp3",
           "active": 1,
           "status": ""
         }
