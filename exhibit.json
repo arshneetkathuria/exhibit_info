@@ -739,7 +739,7 @@
       "color": 2,
        "ip": "192.168.1.9",
        "ble_mac":"00:A0:50:8D:58:73",
-       "adjacent_zone":'[]',
+       "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
         "description": "",
@@ -2152,7 +2152,7 @@
       "color": 2,
          "ip": "192.168.1.9",
        "ble_mac":"00:A0:50:8D:58:73",
-       "adjacent_zone":'[]',
+       "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
         "description": "",
