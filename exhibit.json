@@ -35,7 +35,7 @@
         {
           "name": "English",
           "text": "",
-          "mp3": "",
+          "mp3": "assets/audio/exhibits/01e.mp3",
           "active": 1,
           "status": ""
         }
@@ -242,6 +242,13 @@
       "type": "",
       "audio_mp3_array": [
         {
+          "name": "04e.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/04e.mp3",
+          "active": 1,
+          "status": ""
+        },
+          {
           "name": "04e.mp3",
           "text": "",
           "mp3": "assets/audio/exhibits/04e.mp3",
@@ -1604,6 +1611,13 @@
           "mp3": "assets/audio/exhibits/01h.mp3",
           "active": 1,
           "status": ""
+        },
+            {
+          "name": "01h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/01h.mp3",
+          "active": 1,
+          "status": ""
         }
       ],
       "duration": "2:17",
@@ -1808,6 +1822,13 @@
       "type": "",
       "audio_mp3_array": [
         {
+          "name": "04h.mp3",
+          "text": "",
+          "mp3": "assets/audio/exhibits/04h.mp3",
+          "active": 1,
+          "status": ""
+        },
+            {
           "name": "04h.mp3",
           "text": "",
           "mp3": "assets/audio/exhibits/04h.mp3",
