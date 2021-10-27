@@ -7,7 +7,7 @@
       "image": "assets/images/exhibits/01P.png",
       "color": 2,
       "ip": "192.168.1.15",
-       "ble_mac":"00:A0:50:8D:58:73",
+       "ble_mac":"00:A0:50:4D:36:B3",
        "adjacent_zone":[3,5,7],
        "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1587,7 +1587,7 @@
       "image": "assets/images/exhibits/01P.png",
       "color": 2,
          "ip": "192.168.1.15",
-       "ble_mac":"00:A0:50:8D:58:73",
+       "ble_mac":"00:A0:50:4D:36:B3",
        "adjacent_zone":[3,5,7],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
