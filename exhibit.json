@@ -8,6 +8,7 @@
       "color": 2,
       "ip": "127.0.0.1",
        "ble_mac":"00:A0:50:4D:36:B3",
+        "quppa_zone":"",
        "adjacent_zone":[3,5,7],
        "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -112,6 +113,7 @@
       "color": 2,
         "ip": "127.0.0.1",
        "ble_mac":"00:A0:50:8D:54:8D",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -168,6 +170,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -224,6 +227,7 @@
       "color": 2,
        "ip":"127.0.0.1",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -328,6 +332,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -384,6 +389,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -440,6 +446,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -496,6 +503,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -593,6 +601,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -649,6 +658,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -746,6 +756,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -802,6 +813,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -858,6 +870,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -914,6 +927,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -970,6 +984,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1026,6 +1041,7 @@
       "color": 2,
        "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1082,6 +1098,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+      "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1138,6 +1155,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1194,6 +1212,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1250,6 +1269,7 @@
       "color": 2,
         "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1306,6 +1326,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1362,6 +1383,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1418,6 +1440,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1474,6 +1497,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1530,6 +1554,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "Shri P.V. Narasimha Rao",
@@ -1588,6 +1613,7 @@
       "color": 2,
          "ip": "127.0.0.1",
        "ble_mac":"00:A0:50:4D:36:B3",
+       "quppa_zone":"",
        "adjacent_zone":[3,5,7],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -1692,6 +1718,7 @@
       "color": 2,
          "ip": "127.0.0.1",
        "ble_mac":"00:A0:50:8D:54:8D",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -1748,6 +1775,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -1804,6 +1832,7 @@
       "color": 2,
          "ip": "127.0.0.1",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -1908,6 +1937,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -1964,6 +1994,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2020,6 +2051,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2076,6 +2108,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+      "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2173,6 +2206,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+        "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2229,6 +2263,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2326,6 +2361,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2382,6 +2418,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2438,6 +2475,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2494,6 +2532,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2550,6 +2589,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2606,6 +2646,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी.वी. नरसिम्हा राव",
@@ -2662,6 +2703,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2718,6 +2760,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2774,6 +2817,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2830,6 +2874,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2886,6 +2931,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2942,6 +2988,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -2998,6 +3045,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -3054,6 +3102,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+        "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
@@ -3110,6 +3159,7 @@
       "color": 2,
          "ip": "",
        "ble_mac":"",
+       "quppa_zone":"",
        "adjacent_zone":[],
       "zone": {
         "name": "श्री पी. वी. नरसिम्हा राव",
