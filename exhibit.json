@@ -31,14 +31,16 @@
           "text": "",
           "mp3": "assets/audio/exhibits/01e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+            "srt":"assets/audio/srtFiles/01e.json"
         },
         {
           "name": "English",
           "text": "",
           "mp3": "assets/audio/exhibits/01e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+          "srt":"assets/audio/srtFiles/01e.json"
         }
       ],
       "duration": "2:17",
@@ -136,7 +138,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/02e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":"assets/audio/srtFiles/02e.json"
         }
       ],
       "duration": "5:08",
@@ -193,7 +196,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "8:00",
@@ -250,14 +254,16 @@
           "text": "",
           "mp3": "assets/audio/exhibits/04e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":"assets/audio/srtFiles/04e.json"
         },
           {
           "name": "04e.mp3",
           "text": "",
           "mp3": "assets/audio/exhibits/04e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+               "srt":"assets/audio/srtFiles/04e.json"
         }
       ],
       "duration": "5:08",
@@ -355,7 +361,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0:39",
@@ -412,7 +419,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "1:50",
@@ -469,7 +477,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0:40",
@@ -526,7 +535,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "1:15",
@@ -624,7 +634,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0:29",
@@ -681,7 +692,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "1:40",
@@ -779,7 +791,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/11contextuale.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:14",
@@ -836,7 +849,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/12e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:10",
@@ -876,7 +890,8 @@
         "name": "Shri P.V. Narasimha Rao",
         "description": "",
         "active": 1,
-        "status": ""
+        "status": "",
+           "srt":""
       },
       "floor": {
         "name": "GF",
@@ -893,7 +908,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/13e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:19",
@@ -950,7 +966,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/14e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:14",
@@ -1007,7 +1024,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/15e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:12",
@@ -1064,7 +1082,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/16e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:26",
@@ -1121,7 +1140,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/17e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:25",
@@ -1178,7 +1198,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/18e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:21",
@@ -1235,7 +1256,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/19e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:07",
@@ -1292,7 +1314,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/20e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:11",
@@ -1349,7 +1372,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/21e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:08",
@@ -1406,7 +1430,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/22e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:10",
@@ -1463,7 +1488,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/23e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:09",
@@ -1520,7 +1546,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/24e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:13",
@@ -1577,7 +1604,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/25e.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:11",
@@ -1636,14 +1664,16 @@
           "text": "",
           "mp3": "assets/audio/exhibits/01h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":"assets/audio/srtFiles/01h.json"
         },
             {
           "name": "01h.mp3",
           "text": "",
           "mp3": "assets/audio/exhibits/01h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+                 "srt":"assets/audio/srtFiles/01h.json"
         }
       ],
       "duration": "2:17",
@@ -1741,7 +1771,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/02h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":"assets/audio/srtFiles/02h.json"
         }
       ],
       "duration": "5:08",
@@ -1798,7 +1829,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "8:00",
@@ -1855,14 +1887,16 @@
           "text": "",
           "mp3": "assets/audio/exhibits/04h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":"assets/audio/srtFiles/04h.json"
         },
             {
           "name": "04h.mp3",
           "text": "",
           "mp3": "assets/audio/exhibits/04h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+                 "srt":"assets/audio/srtFiles/04h.json"
         }
       ],
       "duration": "5:08",
@@ -1960,7 +1994,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0:39",
@@ -2017,7 +2052,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "1:50",
@@ -2074,7 +2110,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0:40",
@@ -2131,7 +2168,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "1:15",
@@ -2229,7 +2267,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0:29",
@@ -2286,7 +2325,8 @@
           "text": "",
           "mp3": "",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "1:40",
@@ -2384,7 +2424,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/11contextualh.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:12",
@@ -2441,7 +2482,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/012h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "0.09",
@@ -2498,7 +2540,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/013h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:19",
@@ -2555,7 +2598,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/014h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:11",
@@ -2612,7 +2656,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/015h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:12",
@@ -2669,7 +2714,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/016h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:26",
@@ -2726,7 +2772,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/017h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:28",
@@ -2783,7 +2830,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/018h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:22",
@@ -2840,7 +2888,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/19h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:06",
@@ -2897,7 +2946,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/20h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:11",
@@ -2954,7 +3004,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/21h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:08",
@@ -3011,7 +3062,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/22h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:06",
@@ -3068,7 +3120,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/23h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:10",
@@ -3125,7 +3178,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/24h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:13",
@@ -3182,7 +3236,8 @@
           "text": "",
           "mp3": "assets/audio/exhibits/25h.mp3",
           "active": 1,
-          "status": ""
+          "status": "",
+             "srt":""
         }
       ],
       "duration": "00:11",
