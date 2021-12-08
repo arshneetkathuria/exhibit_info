@@ -1,0 +1,2170 @@
+{
+  "words": [
+    {
+      "text": "Pamulaparti",
+      "type": "word",
+      "data_start": 3.600,
+      "data_end": 4.300,
+      "confidence": 1
+    },
+    {
+      "text": "Venkata",
+      "type": "word",
+      "data_start": 4.300,
+      "data_end": 4.600,
+      "confidence": 1
+    },
+    {
+      "text": "Narasimha Rao",
+      "type": "word",
+      "data_start": 4.600,
+      "data_end": 5.600,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 5.680,
+      "data_end": 5.880,
+      "confidence": 1
+    },
+    {
+      "text": "born",
+      "type": "word",
+      "data_start": 5.920,
+      "data_end": 6.120,
+      "confidence": 1
+    },
+    {
+      "text": "on",
+      "type": "word",
+      "data_start": 6.160,
+      "data_end": 6.320,
+      "confidence": 1
+    },
+    {
+      "text": "28",
+      "type": "word",
+      "data_start": 6.320,
+      "data_end": 6.600,
+      "confidence": 1
+    },
+    {
+      "text": "June",
+      "type": "word",
+      "data_start": 6.640,
+      "data_end": 6.920,
+      "confidence": 1
+    },
+    {
+      "text": "1921",
+      "type": "word",
+      "data_start": 6.960,
+      "data_end": 7.240,
+      "confidence": 1
+    },
+    {
+      "text": "at",
+      "type": "word",
+      "data_start": 7.280,
+      "data_end": 8.440,
+      "confidence": 1
+    },
+    {
+      "text": "his",
+      "type": "word",
+      "data_start": 8.440,
+      "data_end": 8.600,
+      "confidence": 1
+    },
+    {
+      "text": "maternal",
+      "type": "word",
+      "data_start": 8.6,
+      "data_end": 9.12,
+      "confidence": 1
+    },
+    {
+      "text": "grandfather’s",
+      "type": "word",
+      "data_start": 9.12,
+      "data_end": 9.84,
+      "confidence": 1
+    },
+    {
+      "text": "house",
+      "type": "word",
+      "data_start": 9.84,
+      "data_end": 10.04,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 10.08,
+      "data_end": 10.2,
+      "confidence": 1
+    },
+    {
+      "text": "a",
+      "type": "word",
+      "data_start": 10.2,
+      "data_end": 10.28,
+      "confidence": 1
+    },
+    {
+      "text": "village",
+      "type": "word",
+      "data_start": 10.32,
+      "data_end": 10.6,
+      "confidence": 1
+    },
+    {
+      "text": "called",
+      "type": "word",
+      "data_start": 10.64,
+      "data_end": 10.84,
+      "confidence": 1
+    },
+    {
+      "text": "Laknepalli",
+      "type": "word",
+      "data_start": 10.88,
+      "data_end": 11.24,
+      "confidence": 1
+    },
+    {
+      "text": "at",
+      "type": "word",
+      "data_start": 11.84,
+      "data_end": 12.08,
+      "confidence": 1
+    },
+    {
+      "text": "Warangal,",
+      "type": "word",
+      "data_start": 12.08,
+      "data_end": 12.8,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 12.88,
+      "data_end": 13.04,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 13.08,
+      "data_end": 13.16,
+      "confidence": 1
+    },
+    {
+      "text": "Princely",
+      "type": "word",
+      "data_start": 13.2,
+      "data_end": 13.6,
+      "confidence": 1
+    },
+    {
+      "text": "State",
+      "type": "word",
+      "data_start": 13.64,
+      "data_end": 13.84,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 13.88,
+      "data_end": 14,
+      "confidence": 1
+    },
+    {
+      "text": "Hyderabad.",
+      "type": "word",
+      "data_start": 14.04,
+      "data_end": 14.88,
+      "confidence": 1
+    },
+    {
+      "text": "His",
+      "type": "word",
+      "data_start": 15.08,
+      "data_end": 15.36,
+      "confidence": 1
+    },
+    {
+      "text": "mother’s",
+      "type": "word",
+      "data_start": 15.4,
+      "data_end": 15.76,
+      "confidence": 1
+    },
+    {
+      "text": "name",
+      "type": "word",
+      "data_start": 15.8,
+      "data_end": 15.96,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 16,
+      "data_end": 16.16,
+      "confidence": 1
+    },
+    {
+      "text": "Rukmabayamma",
+      "type": "word",
+      "data_start": 16.16,
+      "data_end": 17,
+      "confidence": 1
+    },
+    {
+      "text": "and",
+      "type": "word",
+      "data_start": 17.16,
+      "data_end": 17.48,
+      "confidence": 1
+    },
+    {
+      "text": "father's",
+      "type": "word",
+      "data_start": 17.52,
+      "data_end": 17.92,
+      "confidence": 1
+    },
+    {
+      "text": "name",
+      "type": "word",
+      "data_start": 17.96,
+      "data_end": 18.16,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 18.2,
+      "data_end": 18.36,
+      "confidence": 1
+    },
+    {
+      "text": "P.Sita",
+      "type": "word",
+      "data_start": 18.36,
+      "data_end": 19.04,
+      "confidence": 1
+    },
+    {
+      "text": "ram",
+      "type": "word",
+      "data_start": 19.04,
+      "data_end": 19.24,
+      "confidence": 1
+    },
+    {
+      "text": "Rao.",
+      "type": "word",
+      "data_start": 19.28,
+      "data_end": 19.8,
+      "confidence": 1
+    },
+    {
+      "text": "They",
+      "type": "word",
+      "data_start": 19.92,
+      "data_end": 20.2,
+      "confidence": 1
+    },
+    {
+      "text": "lived",
+      "type": "word",
+      "data_start": 20.24,
+      "data_end": 20.44,
+      "confidence": 1
+    },
+    {
+      "text": "at",
+      "type": "word",
+      "data_start": 20.44,
+      "data_end": 20.6,
+      "confidence": 1
+    },
+    {
+      "text": "Vangara",
+      "type": "word",
+      "data_start": 20.6,
+      "data_end": 21.32,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 21.4,
+      "data_end": 21.6,
+      "confidence": 1
+    },
+    {
+      "text": "Karim",
+      "type": "word",
+      "data_start": 21.64,
+      "data_end": 21.92,
+      "confidence": 1
+    },
+    {
+      "text": "nagar",
+      "type": "word",
+      "data_start": 21.92,
+      "data_end": 22.24,
+      "confidence": 1
+    },
+    {
+      "text": "district.",
+      "type": "word",
+      "data_start": 22.28,
+      "data_end": 22.88,
+      "confidence": 1
+    },
+    {
+      "text": "Their",
+      "type": "word",
+      "data_start": 23,
+      "data_end": 23.24,
+      "confidence": 1
+    },
+    {
+      "text": "ancestors",
+      "type": "word",
+      "data_start": 23.28,
+      "data_end": 23.88,
+      "confidence": 1
+    },
+    {
+      "text": "had",
+      "type": "word",
+      "data_start": 23.92,
+      "data_end": 24.16,
+      "confidence": 1
+    },
+    {
+      "text": "migrated",
+      "type": "word",
+      "data_start": 24.2,
+      "data_end": 24.68,
+      "confidence": 1
+    },
+    {
+      "text": "from",
+      "type": "word",
+      "data_start": 24.68,
+      "data_end": 24.84,
+      "confidence": 1
+    },
+    {
+      "text": "Pamula",
+      "type": "word",
+      "data_start": 24.88,
+      "data_end": 25.32,
+      "confidence": 1
+    },
+    {
+      "text": "parti",
+      "type": "word",
+      "data_start": 25.36,
+      "data_end": 25.76,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 25.84,
+      "data_end": 26.04,
+      "confidence": 1
+    },
+    {
+      "text": "Medak",
+      "type": "word",
+      "data_start": 26.08,
+      "data_end": 26.44,
+      "confidence": 1
+    },
+    {
+      "text": "district",
+      "type": "word",
+      "data_start": 26.48,
+      "data_end": 27.04,
+      "confidence": 1
+    },
+    {
+      "text": "to",
+      "type": "word",
+      "data_start": 27.12,
+      "data_end": 27.32,
+      "confidence": 1
+    },
+    {
+      "text": "this",
+      "type": "word",
+      "data_start": 27.32,
+      "data_end": 27.52,
+      "confidence": 1
+    },
+    {
+      "text": "village,",
+      "type": "word",
+      "data_start": 27.56,
+      "data_end": 28.2,
+      "confidence": 1
+    },
+    {
+      "text": "Rao",
+      "type": "word",
+      "data_start": 28.36,
+      "data_end": 28.8,
+      "confidence": 1
+    },
+    {
+      "text": "used",
+      "type": "word",
+      "data_start": 28.8,
+      "data_end": 29,
+      "confidence": 1
+    },
+    {
+      "text": "Pamula",
+      "type": "word",
+      "data_start": 29.04,
+      "data_end": 29.48,
+      "confidence": 1
+    },
+    {
+      "text": "parti",
+      "type": "word",
+      "data_start": 29.52,
+      "data_end": 29.88,
+      "confidence": 1
+    },
+    {
+      "text": "as",
+      "type": "word",
+      "data_start": 29.88,
+      "data_end": 30.04,
+      "confidence": 1
+    },
+    {
+      "text": "a",
+      "type": "word",
+      "data_start": 30.04,
+      "data_end": 30.2,
+      "confidence": 1
+    },
+    {
+      "text": "geographical",
+      "type": "word",
+      "data_start": 30.2,
+      "data_end": 30.88,
+      "confidence": 1
+    },
+    {
+      "text": "patronymic",
+      "type": "word",
+      "data_start": 30.96,
+      "data_end": 31.68,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 31.76,
+      "data_end": 31.88,
+      "confidence": 1
+    },
+    {
+      "text": "his",
+      "type": "word",
+      "data_start": 31.92,
+      "data_end": 32.04,
+      "confidence": 1
+    },
+    {
+      "text": "name.",
+      "type": "word",
+      "data_start": 32.08,
+      "data_end": 32.68,
+      "confidence": 1
+    },
+    {
+      "text": "\n\nRao",
+      "type": "word",
+      "data_start": 32.88,
+      "data_end": 33.36,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 33.4,
+      "data_end": 33.56,
+      "confidence": 1
+    },
+    {
+      "text": "three",
+      "type": "word",
+      "data_start": 33.6,
+      "data_end": 33.8,
+      "confidence": 1
+    },
+    {
+      "text": "years",
+      "type": "word",
+      "data_start": 33.8,
+      "data_end": 34.04,
+      "confidence": 1
+    },
+    {
+      "text": "old",
+      "type": "word",
+      "data_start": 34.08,
+      "data_end": 34.44,
+      "confidence": 1
+    },
+    {
+      "text": "when",
+      "type": "word",
+      "data_start": 34.52,
+      "data_end": 34.76,
+      "confidence": 1
+    },
+    {
+      "text": "he",
+      "type": "word",
+      "data_start": 34.76,
+      "data_end": 34.88,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 34.92,
+      "data_end": 35.04,
+      "confidence": 1
+    },
+    {
+      "text": "adopted",
+      "type": "word",
+      "data_start": 35.08,
+      "data_end": 35.48,
+      "confidence": 1
+    },
+    {
+      "text": "by",
+      "type": "word",
+      "data_start": 35.48,
+      "data_end": 35.68,
+      "confidence": 1
+    },
+    {
+      "text": "relatives",
+      "type": "word",
+      "data_start": 35.72,
+      "data_end": 36.32,
+      "confidence": 1
+    },
+    {
+      "text": "Ratnabayamma",
+      "type": "word",
+      "data_start": 36.4,
+      "data_end": 37.52,
+      "confidence": 1
+    },
+    {
+      "text": "and",
+      "type": "word",
+      "data_start": 37.6,
+      "data_end": 37.84,
+      "confidence": 1
+    },
+    {
+      "text": "P.Ranga Rao,",
+      "type": "word",
+      "data_start": 37.88,
+      "data_end": 38.88,
+      "confidence": 1
+    },
+    {
+      "text": "a",
+      "type": "word",
+      "data_start": 39,
+      "data_end": 39.2,
+      "confidence": 1
+    },
+    {
+      "text": "wealthy",
+      "type": "word",
+      "data_start": 39.24,
+      "data_end": 39.68,
+      "confidence": 1
+    },
+    {
+      "text": "and",
+      "type": "word",
+      "data_start": 39.72,
+      "data_end": 39.92,
+      "confidence": 1
+    },
+    {
+      "text": "childless",
+      "type": "word",
+      "data_start": 39.92,
+      "data_end": 40.4,
+      "confidence": 1
+    },
+    {
+      "text": "couple.",
+      "type": "word",
+      "data_start": 40.44,
+      "data_end": 41.04,
+      "confidence": 1
+    },
+    {
+      "text": "This",
+      "type": "word",
+      "data_start": 41.44,
+      "data_end": 41.88,
+      "confidence": 1
+    },
+    {
+      "text": "affluent",
+      "type": "word",
+      "data_start": 41.92,
+      "data_end": 42.44,
+      "confidence": 1
+    },
+    {
+      "text": "family",
+      "type": "word",
+      "data_start": 42.48,
+      "data_end": 42.96,
+      "confidence": 1
+    },
+    {
+      "text": "owned",
+      "type": "word",
+      "data_start": 43.08,
+      "data_end": 43.4,
+      "confidence": 1
+    },
+    {
+      "text": "1200",
+      "type": "word",
+      "data_start": 43.4,
+      "data_end": 44.08,
+      "confidence": 1
+    },
+    {
+      "text": "acres",
+      "type": "word",
+      "data_start": 44.16,
+      "data_end": 44.44,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 44.48,
+      "data_end": 44.64,
+      "confidence": 1
+    },
+    {
+      "text": "land",
+      "type": "word",
+      "data_start": 44.68,
+      "data_end": 44.96,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 45.04,
+      "data_end": 45.2,
+      "confidence": 1
+    },
+    {
+      "text": "Vangara.",
+      "type": "word",
+      "data_start": 45.24,
+      "data_end": 46.08,
+      "confidence": 1
+    },
+    {
+      "text": "That",
+      "type": "word",
+      "data_start": 46.2,
+      "data_end": 46.56,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 46.6,
+      "data_end": 46.76,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 46.8,
+      "data_end": 46.88,
+      "confidence": 1
+    },
+    {
+      "text": "era",
+      "type": "word",
+      "data_start": 46.92,
+      "data_end": 47.4,
+      "confidence": 1
+    },
+    {
+      "text": "when",
+      "type": "word",
+      "data_start": 47.48,
+      "data_end": 47.72,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 47.72,
+      "data_end": 47.88,
+      "confidence": 1
+    },
+    {
+      "text": "practice",
+      "type": "word",
+      "data_start": 47.92,
+      "data_end": 48.28,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 48.32,
+      "data_end": 48.52,
+      "confidence": 1
+    },
+    {
+      "text": "child",
+      "type": "word",
+      "data_start": 48.56,
+      "data_end": 48.88,
+      "confidence": 1
+    },
+    {
+      "text": "marriage",
+      "type": "word",
+      "data_start": 48.96,
+      "data_end": 49.44,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 49.52,
+      "data_end": 49.76,
+      "confidence": 1
+    },
+    {
+      "text": "prevalent.",
+      "type": "word",
+      "data_start": 49.8,
+      "data_end": 50.44,
+      "confidence": 1
+    },
+    {
+      "text": "Hence,",
+      "type": "word",
+      "data_start": 50.52,
+      "data_end": 50.92,
+      "confidence": 1
+    },
+    {
+      "text": "at",
+      "type": "word",
+      "data_start": 50.96,
+      "data_end": 51.04,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 51.04,
+      "data_end": 51.16,
+      "confidence": 1
+    },
+    {
+      "text": "age",
+      "type": "word",
+      "data_start": 51.16,
+      "data_end": 51.32,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 51.36,
+      "data_end": 51.52,
+      "confidence": 1
+    },
+    {
+      "text": "seven,",
+      "type": "word",
+      "data_start": 51.52,
+      "data_end": 51.92,
+      "confidence": 1
+    },
+    {
+      "text": "Rao",
+      "type": "word",
+      "data_start": 52.04,
+      "data_end": 52.44,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "data_start": 52.44,
+      "data_end": 52.64,
+      "confidence": 1
+    },
+    {
+      "text": "wed",
+      "type": "word",
+      "data_start": 52.68,
+      "data_end": 52.92,
+      "confidence": 1
+    },
+    {
+      "text": "to",
+      "type": "word",
+      "data_start": 52.96,
+      "data_end": 53.12,
+      "confidence": 1
+    },
+    {
+      "text": "Satyamma.",
+      "type": "word",
+      "data_start": 53.12,
+      "data_end": 54,
+      "confidence": 1
+    },
+    {
+      "text": "Aiming",
+      "type": "word",
+      "data_start": 54.08,
+      "data_end": 54.44,
+      "confidence": 1
+    },
+    {
+      "text": "for",
+      "type": "word",
+      "data_start": 54.44,
+      "data_end": 54.6,
+      "confidence": 1
+    },
+    {
+      "text": "higher",
+      "type": "word",
+      "data_start": 54.64,
+      "data_end": 54.8,
+      "confidence": 1
+    },
+    {
+      "text": "education,",
+      "type": "word",
+      "data_start": 54.84,
+      "data_end": 55.44,
+      "confidence": 1
+    },
+    {
+      "text": "Rao",
+      "type": "word",
+      "data_start": 55.64,
+      "data_end": 56.08,
+      "confidence": 1
+    },
+    {
+      "text": "joined",
+      "type": "word",
+      "data_start": 56.12,
+      "data_end": 56.4,
+      "confidence": 1
+    },
+    {
+      "text": "Osmania",
+      "type": "word",
+      "data_start": 56.48,
+      "data_end": 57.08,
+      "confidence": 1
+    },
+    {
+      "text": "University",
+      "type": "word",
+      "data_start": 57.12,
+      "data_end": 57.8,
+      "confidence": 1
+    },
+    {
+      "text": "for",
+      "type": "word",
+      "data_start": 57.92,
+      "data_end": 58.16,
+      "confidence": 1
+    },
+    {
+      "text": "a",
+      "type": "word",
+      "data_start": 58.16,
+      "data_end": 58.28,
+      "confidence": 1
+    },
+    {
+      "text": "B.A.",
+      "type": "word",
+      "data_start": 58.32,
+      "data_end": 58.6,
+      "confidence": 1
+    },
+    {
+      "text": "programme.",
+      "type": "word",
+      "data_start": 58.64,
+      "data_end": 59.12,
+      "confidence": 1
+    },
+    {
+      "text": "Then",
+      "data_start": 59.28,
+      "data_end": 59.6,
+      "confidence": 1
+    },
+    {
+      "text": "studied",
+      "data_start": 59.64,
+      "data_end": 60.24,
+      "confidence": 1
+    },
+    {
+      "text": "at",
+      "data_start": 60.32,
+      "data_end": 60.56,
+      "confidence": 1
+    },
+    {
+      "text": "His",
+      "type": "word",
+      "data_start": 60.56,
+      "data_end": 60.76,
+      "confidence": 0.81
+    },
+    {
+      "text": "lop",
+      "type": "word",
+      "data_start": 60.8,
+      "data_end": 61.04,
+      "confidence": 0.05
+    },
+    {
+      "text": "college",
+      "type": "word",
+      "data_start": 61.08,
+      "data_end": 61.36,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 61.44,
+      "data_end": 61.64,
+      "confidence": 0.72
+    },
+    {
+      "text": "Nagpur,",
+      "type": "word",
+      "data_start": 61.64,
+      "data_end": 62.24,
+      "confidence": 0.02
+    },
+    {
+      "text": "followed",
+      "type": "word",
+      "data_start": 62.32,
+      "data_end": 62.76,
+      "confidence": 1
+    },
+    {
+      "text": "by",
+      "type": "word",
+      "data_start": 62.8,
+      "data_end": 62.92,
+      "confidence": 1
+    },
+    {
+      "text": "acquiring",
+      "type": "word",
+      "data_start": 62.92,
+      "data_end": 63.4,
+      "confidence": 0.66
+    },
+    {
+      "text": "masters",
+      "type": "word",
+      "data_start": 63.44,
+      "data_end": 63.92,
+      "confidence": 0.65
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 63.92,
+      "data_end": 64.04,
+      "confidence": 0.93
+    },
+    {
+      "text": "law",
+      "type": "word",
+      "data_start": 64.08,
+      "data_end": 64.24,
+      "confidence": 1
+    },
+    {
+      "text": "from",
+      "type": "word",
+      "data_start": 64.28,
+      "data_end": 64.44,
+      "confidence": 1
+    },
+    {
+      "text": "Fergusson",
+      "type": "word",
+      "data_start": 64.44,
+      "data_end": 65,
+      "confidence": 0.85
+    },
+    {
+      "text": "college",
+      "type": "word",
+      "data_start": 65.04,
+      "data_end": 65.32,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 65.4,
+      "data_end": 65.6,
+      "confidence": 0.99
+    },
+    {
+      "text": "Pune.",
+      "type": "word",
+      "data_start": 65.6,
+      "data_end": 66.12,
+      "confidence": 0.28
+    },
+    {
+      "text": "In",
+      "type": "word",
+      "data_start": 66.24,
+      "data_end": 66.44,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 66.44,
+      "data_end": 66.6,
+      "confidence": 0.98
+    },
+    {
+      "text": "1940's,",
+      "type": "word",
+      "data_start": 66.64,
+      "data_end": 67.72,
+      "confidence": 0.74
+    },
+    {
+      "text": "young",
+      "type": "word",
+      "data_start": 67.8,
+      "data_end": 68.08,
+      "confidence": 0.98
+    },
+    {
+      "text": "Rao",
+      "type": "word",
+      "data_start": 68.12,
+      "data_end": 68.68,
+      "confidence": 0.23
+    },
+    {
+      "text": "co-edited",
+      "type": "word",
+      "data_start": 68.8,
+      "data_end": 69.52,
+      "confidence": 0.95
+    },
+    {
+      "text": "a",
+      "type": "word",
+      "data_start": 69.6,
+      "data_end": 69.72,
+      "confidence": 1
+    },
+    {
+      "text": "weekly",
+      "type": "word",
+      "data_start": 69.76,
+      "data_end": 70.16,
+      "confidence": 0.83
+    },
+    {
+      "text": "magazine",
+      "type": "word",
+      "data_start": 70.2,
+      "data_end": 70.84,
+      "confidence": 1
+    },
+    {
+      "text": "called",
+      "type": "word",
+      "data_start": 70.92,
+      "data_end": 71.28,
+      "confidence": 1
+    },
+    {
+      "text": "Kakatiya",
+      "type": "word",
+      "data_start": 71.32,
+      "data_end": 71.92,
+      "confidence": 0.2
+    },
+    {
+      "text": "Patrika,",
+      "type": "word",
+      "data_start": 71.96,
+      "data_end": 72.8,
+      "confidence": 0.24
+    },
+    {
+      "text": "before",
+      "type": "word",
+      "data_start": 72.96,
+      "data_end": 73.32,
+      "confidence": 1
+    },
+    {
+      "text": "moving",
+      "type": "word",
+      "data_start": 73.36,
+      "data_end": 73.64,
+      "confidence": 1
+    },
+    {
+      "text": "into",
+      "type": "word",
+      "data_start": 73.68,
+      "data_end": 73.88,
+      "confidence": 1
+    },
+    {
+      "text": "legal",
+      "type": "word",
+      "data_start": 73.92,
+      "data_end": 74.28,
+      "confidence": 0.91
+    },
+    {
+      "text": "practice",
+      "type": "word",
+      "data_start": 74.36,
+      "data_end": 74.72,
+      "confidence": 1
+    },
+    {
+      "text": "as",
+      "type": "word",
+      "data_start": 74.76,
+      "data_end": 74.96,
+      "confidence": 1
+    },
+    {
+      "text": "a",
+      "type": "word",
+      "data_start": 74.96,
+      "data_end": 75.08,
+      "confidence": 1
+    },
+    {
+      "text": "junior",
+      "type": "word",
+      "data_start": 75.08,
+      "data_end": 75.44,
+      "confidence": 0.99
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 75.48,
+      "data_end": 75.64,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 75.64,
+      "data_end": 75.72,
+      "confidence": 1
+    },
+    {
+      "text": "chamber",
+      "type": "word",
+      "data_start": 75.76,
+      "data_end": 76.08,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 76.08,
+      "data_end": 76.24,
+      "confidence": 1
+    },
+    {
+      "text": "Burgula.",
+      "type": "word",
+      "data_start": 76.24,
+      "data_end": 76.72,
+      "confidence": 0.01
+    },
+    {
+      "text": "Ramakrishna",
+      "type": "word",
+      "data_start": 76.76,
+      "data_end": 77.32,
+      "confidence": 0.74
+    },
+    {
+      "text": " Rao,",
+      "type": "word",
+      "data_start": 77.36,
+      "data_end": 77.88,
+      "confidence": 0.42
+    },
+    {
+      "text": "who",
+      "type": "word",
+      "data_start": 77.96,
+      "data_end": 78.2,
+      "confidence": 1
+    },
+    {
+      "text": "later",
+      "type": "word",
+      "data_start": 78.24,
+      "data_end": 78.48,
+      "confidence": 1
+    },
+    {
+      "text": "became",
+      "type": "word",
+      "data_start": 78.56,
+      "data_end": 78.84,
+      "confidence": 0.95
+    },
+    {
+      "text": "chief",
+      "type": "word",
+      "data_start": 78.88,
+      "data_end": 79.2,
+      "confidence": 1
+    },
+    {
+      "text": "minister",
+      "type": "word",
+      "data_start": 79.28,
+      "data_end": 79.6,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 79.68,
+      "data_end": 79.8,
+      "confidence": 1
+    },
+    {
+      "text": "Hyderabad",
+      "type": "word",
+      "data_start": 79.84,
+      "data_end": 80.4,
+      "confidence": 0.35
+    },
+    {
+      "text": "State.",
+      "type": "word",
+      "data_start": 80.44,
+      "data_end": 81.08,
+      "confidence": 0.98
+    },
+    {
+      "text": "\n\nThe",
+      "type": "word",
+      "data_start": 82,
+      "data_end": 82.36,
+      "confidence": 0.82
+    },
+    {
+      "text": "last",
+      "type": "word",
+      "data_start": 82.4,
+      "data_end": 82.6,
+      "confidence": 1
+    },
+    {
+      "text": "Nizam",
+      "type": "word",
+      "data_start": 82.64,
+      "data_end": 83.04,
+      "confidence": 0.25
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 83.04,
+      "data_end": 83.2,
+      "confidence": 1
+    },
+    {
+      "text": "Hyderabad,",
+      "type": "word",
+      "data_start": 83.2,
+      "data_end": 83.88,
+      "confidence": 0.42
+    },
+    {
+      "text": "Osman",
+      "type": "word",
+      "data_start": 83.96,
+      "data_end": 84.44,
+      "confidence": 0.1
+    },
+    {
+      "text": "Ali",
+      "type": "word",
+      "data_start": 84.44,
+      "data_end": 84.68,
+      "confidence": 0.48
+    },
+    {
+      "text": "Khan,",
+      "type": "word",
+      "data_start": 84.68,
+      "data_end": 85.12,
+      "confidence": 0.78
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 85.2,
+      "data_end": 85.48,
+      "confidence": 0.53
+    },
+    {
+      "text": "living",
+      "type": "word",
+      "data_start": 85.52,
+      "data_end": 85.72,
+      "confidence": 1
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 85.76,
+      "data_end": 85.88,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 85.92,
+      "data_end": 86,
+      "confidence": 0.91
+    },
+    {
+      "text": "delusion",
+      "type": "word",
+      "data_start": 86.04,
+      "data_end": 86.6,
+      "confidence": 0.8
+    },
+    {
+      "text": "that",
+      "type": "word",
+      "data_start": 86.68,
+      "data_end": 86.88,
+      "confidence": 1
+    },
+    {
+      "text": "he",
+      "type": "word",
+      "data_start": 86.92,
+      "data_end": 87.08,
+      "confidence": 1
+    },
+    {
+      "text": "could",
+      "type": "word",
+      "data_start": 87.08,
+      "data_end": 87.28,
+      "confidence": 1
+    },
+    {
+      "text": "keep",
+      "type": "word",
+      "data_start": 87.32,
+      "data_end": 87.52,
+      "confidence": 1
+    },
+    {
+      "text": "Hyderabad",
+      "type": "word",
+      "data_start": 87.56,
+      "data_end": 88.28,
+      "confidence": 0.59
+    },
+    {
+      "text": "as",
+      "type": "word",
+      "data_start": 88.36,
+      "data_end": 88.56,
+      "confidence": 1
+    },
+    {
+      "text": "his",
+      "type": "word",
+      "data_start": 88.6,
+      "data_end": 88.76,
+      "confidence": 0.92
+    },
+    {
+      "text": "feudal",
+      "type": "word",
+      "data_start": 88.76,
+      "data_end": 89.2,
+      "confidence": 0.99
+    },
+    {
+      "text": "fiefdom.",
+      "type": "word",
+      "data_start": 89.24,
+      "data_end": 89.88,
+      "confidence": 0.01
+    },
+    {
+      "text": "even",
+      "type": "word",
+      "data_start": 89.96,
+      "data_end": 90.2,
+      "confidence": 1
+    },
+    {
+      "text": "after",
+      "type": "word",
+      "data_start": 90.24,
+      "data_end": 90.48,
+      "confidence": 1
+    },
+    {
+      "text": "India's",
+      "type": "word",
+      "data_start": 90.56,
+      "data_end": 91.04,
+      "confidence": 0.42
+    },
+    {
+      "text": "independence",
+      "type": "word",
+      "data_start": 91.08,
+      "data_end": 91.64,
+      "confidence": 0.71
+    },
+    {
+      "text": "from",
+      "type": "word",
+      "data_start": 91.68,
+      "data_end": 91.84,
+      "confidence": 0.95
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 91.84,
+      "data_end": 92,
+      "confidence": 0.87
+    },
+    {
+      "text": "British",
+      "type": "word",
+      "data_start": 92,
+      "data_end": 92.28,
+      "confidence": 0.7
+    },
+    {
+      "text": "rule",
+      "type": "word",
+      "data_start": 92.28,
+      "data_end": 92.68,
+      "confidence": 0.81
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 92.76,
+      "data_end": 92.96,
+      "confidence": 0.99
+    },
+    {
+      "text": "1947.",
+      "type": "word",
+      "data_start": 92.96,
+      "data_end": 94.4,
+      "confidence": 0.69
+    },
+    {
+      "text": "Narasimha Rao",
+      "type": "word",
+      "data_start": 95.12,
+      "data_end": 96.12,
+      "confidence": 0.01
+    },
+    {
+      "text": "joined",
+      "type": "word",
+      "data_start": 96.12,
+      "data_end": 96.4,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 96.44,
+      "data_end": 96.6,
+      "confidence": 0.96
+    },
+    {
+      "text": "Vande",
+      "type": "word",
+      "data_start": 96.64,
+      "data_end": 96.8,
+      "confidence": 0.94
+    },
+    {
+      "text": "Mataram",
+      "type": "word",
+      "data_start": 96.8,
+      "data_end": 97.36,
+      "confidence": 0
+    },
+    {
+      "text": "liberation",
+      "type": "word",
+      "data_start": 97.44,
+      "data_end": 97.92,
+      "confidence": 0.99
+    },
+    {
+      "text": "struggle",
+      "type": "word",
+      "data_start": 97.96,
+      "data_end": 98.56,
+      "confidence": 0.56
+    },
+    {
+      "text": "against",
+      "type": "word",
+      "data_start": 98.64,
+      "data_end": 98.96,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 99,
+      "data_end": 99.2,
+      "confidence": 0.98
+    },
+    {
+      "text": "Nizam,",
+      "type": "word",
+      "data_start": 99.2,
+      "data_end": 99.8,
+      "confidence": 0.7
+    },
+    {
+      "text": "which",
+      "type": "word",
+      "data_start": 99.96,
+      "data_end": 100.2,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 100.24,
+      "data_end": 100.4,
+      "confidence": 1
+    },
+    {
+      "text": "led",
+      "type": "word",
+      "data_start": 100.4,
+      "data_end": 100.64,
+      "confidence": 0.88
+    },
+    {
+      "text": "by",
+      "type": "word",
+      "data_start": 100.64,
+      "data_end": 100.8,
+      "confidence": 1
+    },
+    {
+      "text": "Swami",
+      "type": "word",
+      "data_start": 100.84,
+      "data_end": 101.2,
+      "confidence": 0.6
+    },
+    {
+      "text": "Ramananda Tirth,",
+      "type": "word",
+      "data_start": 101.24,
+      "data_end": 102.08,
+      "confidence": 0.37
+    },
+    {
+      "text": "who",
+      "type": "word",
+      "data_start": 102.4,
+      "data_end": 102.72,
+      "confidence": 0.91
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 102.76,
+      "data_end": 102.92,
+      "confidence": 0.88
+    },
+    {
+      "text": "an",
+      "type": "word",
+      "data_start": 102.96,
+      "data_end": 103.12,
+      "confidence": 1
+    },
+    {
+      "text": "educationist",
+      "type": "word",
+      "data_start": 103.12,
+      "data_end": 103.96,
+      "confidence": 0.99
+    },
+    {
+      "text": "reformer,",
+      "type": "word",
+      "data_start": 104.04,
+      "data_end": 104.92,
+      "confidence": 0.8
+    },
+    {
+      "text": "spiritualist",
+      "type": "word",
+      "data_start": 105,
+      "data_end": 105.84,
+      "confidence": 0.99
+    },
+    {
+      "text": "and",
+      "type": "word",
+      "data_start": 105.92,
+      "data_end": 106.16,
+      "confidence": 1
+    },
+    {
+      "text": "president",
+      "type": "word",
+      "data_start": 106.32,
+      "data_end": 106.64,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 106.72,
+      "data_end": 106.88,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 106.92,
+      "data_end": 107,
+      "confidence": 0.99
+    },
+    {
+      "text": "Hyderabad",
+      "type": "word",
+      "data_start": 107.04,
+      "data_end": 107.52,
+      "confidence": 0.36
+    },
+    {
+      "text": "State",
+      "type": "word",
+      "data_start": 107.6,
+      "data_end": 107.88,
+      "confidence": 0.99
+    },
+    {
+      "text": "Congress.",
+      "type": "word",
+      "data_start": 107.92,
+      "data_end": 108.6,
+      "confidence": 0.99
+    },
+    {
+      "text": "Rao",
+      "type": "word",
+      "data_start": 109,
+      "data_end": 109.48,
+      "confidence": 0.36
+    },
+    {
+      "text": "was a",
+      "type": "word",
+      "data_start": 109.52,
+      "data_end": 109.8,
+      "confidence": 1
+    },
+    {
+      "text": "mentor",
+      "type": "word",
+      "data_start": 109.92,
+      "data_end": 110.52,
+      "confidence": 0.92
+    },
+    {
+      "text": "in",
+      "type": "word",
+      "data_start": 110.6,
+      "data_end": 110.8,
+      "confidence": 1
+    },
+    {
+      "text": "Swami.",
+      "type": "word",
+      "data_start": 110.84,
+      "data_end": 111.68,
+      "confidence": 0.91
+    },
+    {
+      "text": "In",
+      "type": "word",
+      "data_start": 111.84,
+      "data_end": 112.16,
+      "confidence": 0.99
+    },
+    {
+      "text": "1948,",
+      "type": "word",
+      "data_start": 112.16,
+      "data_end": 112.84,
+      "confidence": 0.84
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 112.84,
+      "data_end": 113.6,
+      "confidence": 0.84
+    },
+    {
+      "text": "Nizam",
+      "type": "word",
+      "data_start": 113.64,
+      "data_end": 114,
+      "confidence": 0.68
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 114.08,
+      "data_end": 114.24,
+      "confidence": 0.81
+    },
+    {
+      "text": "driven",
+      "type": "word",
+      "data_start": 114.28,
+      "data_end": 114.6,
+      "confidence": 0.64
+    },
+    {
+      "text": "out",
+      "type": "word",
+      "data_start": 114.6,
+      "data_end": 114.8,
+      "confidence": 1
+    },
+    {
+      "text": "by",
+      "type": "word",
+      "data_start": 114.8,
+      "data_end": 114.92,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 114.96,
+      "data_end": 115.08,
+      "confidence": 0.99
+    },
+    {
+      "text": "power",
+      "type": "word",
+      "data_start": 115.12,
+      "data_end": 115.28,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 115.32,
+      "data_end": 115.52,
+      "confidence": 1
+    },
+    {
+      "text": "struggle",
+      "type": "word",
+      "data_start": 115.52,
+      "data_end": 115.92,
+      "confidence": 0.6
+    },
+    {
+      "text": "movement",
+      "type": "word",
+      "data_start": 115.92,
+      "data_end": 116.56,
+      "confidence": 1
+    },
+    {
+      "text": "and",
+      "type": "word",
+      "data_start": 116.68,
+      "data_end": 116.96,
+      "confidence": 0.97
+    },
+    {
+      "text": "armed",
+      "type": "word",
+      "data_start": 116.96,
+      "data_end": 117.28,
+      "confidence": 1
+    },
+    {
+      "text": "action",
+      "type": "word",
+      "data_start": 117.36,
+      "data_end": 117.76,
+      "confidence": 1
+    },
+    {
+      "text": "initiated",
+      "type": "word",
+      "data_start": 117.84,
+      "data_end": 118.72,
+      "confidence": 1
+    },
+    {
+      "text": "by",
+      "type": "word",
+      "data_start": 118.8,
+      "data_end": 119,
+      "confidence": 1
+    },
+    {
+      "text": "India's",
+      "type": "word",
+      "data_start": 119.04,
+      "data_end": 119.52,
+      "confidence": 1
+    },
+    {
+      "text": "home",
+      "type": "word",
+      "data_start": 119.52,
+      "data_end": 119.72,
+      "confidence": 1
+    },
+    {
+      "text": "minister",
+      "type": "word",
+      "data_start": 119.72,
+      "data_end": 120.32,
+      "confidence": 0.69
+    },
+    {
+      "text": "Sardar",
+      "type": "word",
+      "data_start": 120.44,
+      "data_end": 121.04,
+      "confidence": 0.47
+    },
+    {
+      "text": "Vallabhbhai Patel.",
+      "type": "word",
+      "data_start": 121.08,
+      "data_end": 122.32,
+      "confidence": 0
+    },
+    {
+      "text": "Hyderabad",
+      "type": "word",
+      "data_start": 122.44,
+      "data_end": 123.12,
+      "confidence": 0.66
+    },
+    {
+      "text": "became",
+      "type": "word",
+      "data_start": 123.12,
+      "data_end": 123.44,
+      "confidence": 1
+    },
+    {
+      "text": "one",
+      "type": "word",
+      "data_start": 123.48,
+      "data_end": 123.64,
+      "confidence": 1
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 123.64,
+      "data_end": 123.72,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 123.72,
+      "data_end": 123.84,
+      "confidence": 0.85
+    },
+    {
+      "text": "states",
+      "type": "word",
+      "data_start": 123.88,
+      "data_end": 124.12,
+      "confidence": 0.85
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 124.2,
+      "data_end": 124.36,
+      "confidence": 0.55
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 124.36,
+      "data_end": 124.52,
+      "confidence": 0.99
+    },
+    {
+      "text": "Union",
+      "type": "word",
+      "data_start": 124.52,
+      "data_end": 124.84,
+      "confidence": 0.56
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 124.88,
+      "data_end": 125.04,
+      "confidence": 1
+    },
+    {
+      "text": "India.",
+      "type": "word",
+      "data_start": 125.08,
+      "data_end": 125.56,
+      "confidence": 1
+    },
+    {
+      "text": "The",
+      "type": "word",
+      "data_start": 125.68,
+      "data_end": 125.96,
+      "confidence": 1
+    },
+    {
+      "text": "highest",
+      "type": "word",
+      "data_start": 125.96,
+      "data_end": 126.36,
+      "confidence": 0.81
+    },
+    {
+      "text": "post",
+      "type": "word",
+      "data_start": 126.4,
+      "data_end": 126.76,
+      "confidence": 0.98
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 126.8,
+      "data_end": 127,
+      "confidence": 1
+    },
+    {
+      "text": "the",
+      "type": "word",
+      "data_start": 127,
+      "data_end": 127.12,
+      "confidence": 1
+    },
+    {
+      "text": "Republic",
+      "type": "word",
+      "data_start": 127.12,
+      "data_end": 127.56,
+      "confidence": 0.45
+    },
+    {
+      "text": "of",
+      "type": "word",
+      "data_start": 127.56,
+      "data_end": 127.72,
+      "confidence": 1
+    },
+    {
+      "text": "India",
+      "type": "word",
+      "data_start": 127.72,
+      "data_end": 128.2,
+      "confidence": 0.76
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 128.28,
+      "data_end": 128.64,
+      "confidence": 0.5
+    },
+    {
+      "text": "waiting",
+      "type": "word",
+      "data_start": 128.68,
+      "data_end": 129.2,
+      "confidence": 0.98
+    },
+    {
+      "text": "for",
+      "type": "word",
+      "data_start": 129.28,
+      "data_end": 129.48,
+      "confidence": 0.53
+    },
+    {
+      "text": "Narasimha Rao.",
+      "type": "word",
+      "data_start": 129.52,
+      "data_end": 130.44,
+      "confidence": 0.18
+    },
+    {
+      "text": "But",
+      "type": "word",
+      "data_start": 130.56,
+      "data_end": 130.8,
+      "confidence": 0.97
+    },
+    {
+      "text": "till",
+      "type": "word",
+      "data_start": 130.8,
+      "data_end": 131.04,
+      "confidence": 0.98
+    },
+    {
+      "text": "when?",
+      "type": "word",
+      "data_start": 131.04,
+      "data_end": 131.48,
+      "confidence": 0.36
+    },
+    {
+      "text": "The",
+      "type": "word",
+      "data_start": 131.6,
+      "data_end": 131.84,
+      "confidence": 0.98
+    },
+    {
+      "text": "time",
+      "type": "word",
+      "data_start": 131.88,
+      "data_end": 132.12,
+      "confidence": 1
+    },
+    {
+      "text": "was",
+      "type": "word",
+      "data_start": 132.2,
+      "data_end": 132.4,
+      "confidence": 1
+    },
+    {
+      "text": "yet",
+      "type": "word",
+      "data_start": 132.44,
+      "data_end": 132.64,
+      "confidence": 1
+    },
+    {
+      "text": "to",
+      "type": "word",
+      "data_start": 132.68,
+      "data_end": 132.84,
+      "confidence": 1
+    },
+    {
+      "text": "tell!",
+      "type": "word",
+      "data_start": 132.88,
+      "data_end": 133.44,
+      "confidence": 1
+    }
+  ]
+}
