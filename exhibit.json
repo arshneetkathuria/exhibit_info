@@ -1,10 +1,6 @@
 {
 "en": [
     {
-     "pm_name":"P.V. Narasimha Rao",
-     "pm_image":"assets/images/pm_profile_images",
-     "details":[
-    {
       "id": 1,
       "name": "Early Life",
       "description": "Pamulaparti Venkata Narasimha Rao was born on 28 June 1921 at his maternal grandfather’s house in a village called Laknepalli at Warangal, in the Princely State of Hyderabad. His mother’s name was Rukmabayamma and father’s name was P. Sitaram Rao. They lived at Vangara in Karimnagar district. Their ancestors had migrated from Pamulaparti in Medak district to this village. Rao used Pamulaparti as a geographical patronymic in his name. \n\nRao was three years old, when he was adopted by relatives Ratnabayamma and P. Ranga Rao, a wealthy and childless couple. This affluent family owned 1200 acres of land in Vangara. That was the era when the practice of child marriage was prevalent. Hence, at the age of seven, Rao was wed to Satyamma. Aiming for higher education, Rao joined Osmania University for a B.A. programme. Then studied at Hislop College in Nagpur, followed by acquiring masters in law from Fergusson College in Pune. In the 1940’s, young Rao co-edited a weekly magazine called Kakatiya Patrika, before moving into legal practice as a junior in the chamber of Burgula Ramakrishna Rao, who later became chief minister of Hyderabad State. \n\nThe last Nizam of Hyderabad, Osman Ali Khan, was living in the delusion that he could keep Hyderabad as his feudal fiefdom even after India’s independence from the British rule in 1947. Narasimha Rao joined the “Vande Mataram” liberation struggle against the Nizam, which was led by Swami Ramananda Tirth, who was an educationist, reformer, spiritualist and president of the Hyderabad State Congress. Rao saw a mentor in Swami. In 1948, the Nizam was driven out by the power of struggle movement and armed action initiated by India’s home minister Sardar Vallabhbhai Patel. Hyderabad became one of the states of the Union of India. The highest post of the Republic of India was waiting for Narasimha Rao. But till when? The time was yet to tell!",
@@ -1634,12 +1630,8 @@
         "mcq":[],
       "active": 1,
       "status": "open"
-   }]
     }],
-  "hi":  [{
-     "pm_name":"श्री पी. वी. नरसिम्हा राव",
-     "pm_image":"assets/images/pm_profile_images",
-     "details":[
+  "hi":  [
     {
       "id": 1,
       "name": "प्रारंभिक जीवन",
@@ -3269,6 +3261,5 @@
         "mcq":[],
       "active": 1,
       "status": "open"
-    }]
     }]
 }
