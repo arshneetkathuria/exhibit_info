@@ -69,7 +69,7 @@
           "color": 2,
           "ip": "192.168.1.6",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "GF.1.2",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri Lal Bahadur Shastri",
@@ -773,7 +773,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "zone3",
+          "quppa_zone": "GF.1.9",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri Lal Bahadur Shastri",
