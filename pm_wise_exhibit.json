@@ -2,7 +2,7 @@
  "en":[
    {
       "pm_name": "Shri Lal Bahadur Shastri ",
-      "pm_image": "https://github.com/arshneetkathuria/exhibit_info/raw/master/images/pm_images/Lal%20Bahadur%20Shastri.png",
+      "pm_image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/pm_images/LalBahadurShastri.png",
       "details": [
         {
           "id": "PM1.1",
@@ -870,7 +870,7 @@
   "hi": [
    {
       "pm_name": "श्री लाल बहादुर शास्त्री",
-      "pm_image": "https://github.com/arshneetkathuria/exhibit_info/raw/master/images/pm_images/Lal%20Bahadur%20Shastri.png",
+      "pm_image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/pm_images/LalBahadurShastri.png",
       "details": [
         {
           "id": "PM1.1",
