@@ -520,7 +520,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.1.6",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri Lal Bahadur Shastri",
@@ -617,7 +617,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "zone1",
+          "quppa_zone": "GF.1.7",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri Lal Bahadur Shastri",
@@ -716,7 +716,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "zone2",
+          "quppa_zone": "GF.1.8",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri Lal Bahadur Shastri",
@@ -983,7 +983,7 @@
           "color": 2,
           "ip": "127.0.0.1",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "GF.1.2",
           "adjacent_zone": [],
           "zone": {
             "name": "श्री लाल बहादुर शास्त्री",
@@ -1438,7 +1438,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.1.6",
           "adjacent_zone": [],
           "zone": {
             "name": "",
@@ -1535,7 +1535,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "zone1",
+          "quppa_zone": "GF.1.7",
           "adjacent_zone": [],
           "zone": {
             "name": "",
@@ -1634,7 +1634,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "zone2",
+          "quppa_zone": "GF.1.8",
           "adjacent_zone": [],
           "zone": {
             "name": "",
@@ -1691,7 +1691,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "",
-          "quppa_zone": "zone3",
+          "quppa_zone": "GF.1.9",
           "adjacent_zone": [],
           "zone": {
             "name": "",
