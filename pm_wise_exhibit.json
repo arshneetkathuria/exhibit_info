@@ -615,7 +615,7 @@
           "description": "",
           "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP1.8.jpg",
           "color": 2,
-          "ip": "",
+          "ip": "192.168.1.18",
           "ble_mac": "",
           "quppa_zone": "GF.1.7",
           "adjacent_zone": [],
@@ -638,7 +638,7 @@
             {
               "name": "",
               "text": "",
-              "mp3": "",
+              "mp3": "https://github.com/arshneetkathuria/exhibit_info/raw/master/audio/exhibits/EA.8.mp3",
               "active": 1,
               "status": "",
               "srt": ""
@@ -1533,7 +1533,7 @@
           "description": "आकाशवाणी पर भाषण",
           "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP1.8.jpg",
           "color": 2,
-          "ip": "",
+          "ip": "192.168.1.18",
           "ble_mac": "",
           "quppa_zone": "GF.1.7",
           "adjacent_zone": [],
@@ -1556,7 +1556,7 @@
             {
               "name": "",
               "text": "",
-              "mp3": "",
+              "mp3": "https://github.com/arshneetkathuria/exhibit_info/raw/master/audio/exhibits/EA.8.mp3",
               "active": 1,
               "status": "",
               "srt": ""
