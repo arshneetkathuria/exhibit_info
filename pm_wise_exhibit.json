@@ -878,7 +878,7 @@
           "color": 2,
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.2.1",
           "adjacent_zone": [
             3,
             5,
@@ -1262,7 +1262,7 @@
           "color": 2,
           "ip": "192.168.1.34",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.2.4",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri P.V. Narasimha Rao",
@@ -1535,7 +1535,7 @@
           "color": 2,
           "ip": "192.168.1.48",
           "ble_mac": "",
-          "quppa_zone": "zone3",
+          "quppa_zone": "GF.2.7",
           "adjacent_zone": [],
           "zone": {
             "name": "Shri P.V. Narasimha Rao",
