@@ -865,7 +865,1060 @@
           "status": "open"
         }
       ]
-   }
+   },
+   {
+      "pm_name": "Smt. Indira Gandhi",
+      "pm_image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/pm_images/IndiraGandhi.png",
+      "details": [
+        {
+          "id": "PM2.1",
+          "name": "Early Life and Political Journey",
+          "description": "Smt. Indira Gandhi…The third Prime Minister of India! The daughter of Smt. Kamala and Shri Jawaharlal Nehru, Indira was born on 19 November 1917.Her grandfather Shri Motilal Nehru was amongst the finest lawyers of his generation.Under the influence of Mahatma Gandhi, he abandoned his anglicised style of life and adopted Khadi. Shri Motilal Nehru had also served as the Congress President. Her childhood nickname was ‘Indu’, even her toys breathed Mahatma Gandhi’s revolutionary leadership.\nHer father, Jawaharlal Nehru, was her most important teacher, who imparted vast knowledge through his experiences, letters and the books he gave her to read.12-years-old Indira Gandhi accompanied her father to the historic Lahore session of Congress, which adopted the Purna Swaraj resolution with Pandit Jawaharlal Nehru as its President. When both her parents were arrested during the Salt Satyagraha in 1930, the 13-year-old Indira Gandhi enlisted to help Congress volunteers. She also studied at Shanti Niketan, where she got to learn from the Gurudev Rabindranath Tagore. Young Indira Gandhi was by her mother, Smt. Kamala Nehru’s side when she passed away in Switzerland in 1936. Indira expressed her desire to marry her Parsi friend Feroze Jehangir Gandhi. There were objections from Indira’s Kashmiri Brahmin family, but the couple overcame all opposition and were married according to Hindu rituals on 16 March 1942. Smt. Indira Gandhi was amongst the thousands of freedom-fighters imprisoned for participating in Mahatma Gandhi’s ‘Quit India Movement’ in 1942. She was later released due to her failing health. Her elder son Rajiv was born in 1944, and her second son, Sanjay, was born in 1946. Post-Independence, her father, Pandit Jawaharlal Nehru, was sworn in as the first Prime Minister of India. Later, Smt. Gandhi moved in as her widowed father’s official host to their new residence in Delhi. Smt. Indira Gandhi also began to expand her involvement in party affairs. In 1959, she was elected President of the Congress Party.\nThat year, she also played a decisive role in the dismissal of the Communist led state government of Kerala, and the imposition of President’s Rule. Smt. Gandhi was also active in the rehabilitation of Tibetan refugees. In 1960, Smt. Gandhi suffered a personal loss when her husband Feroze died at the young age of 48. Four years later, her father, Shri Jawaharlal Nehru, also passed away on the 27 May 1964.\nIn June 1964, Smt. Gandhi was inducted into the Cabinet of Prime Minister Lal Bahadur Shastri as the Minister for Information and Broadcasting. On 11 January 1966 Prime Minister Shastri’s sudden demise left the country in shock.\nFor a brief period, acting Prime Minister Gulzarilal Nanda took charge, however, destiny had a higher office for Smt. Gandhi in store! \nShe was sworn in as India’s first woman Prime Minister on 24 January 1966. “I Indira Gandhi do solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established.”",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.1.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "00:A0:50:4D:36:B3",
+          "quppa_zone": "",
+          "adjacent_zone": [
+            3,
+            5,
+            7
+          ],
+          "zone": {
+            "name": "Smt. Indira Gandhi",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "LGF",
+            "description": "Lower Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "EA2.1",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "4:59",
+          "tag": [
+            {
+              "name": "Special Attraction",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [
+            {
+              "question": "What is the scientific name of a butterfly?",
+              "answers": [
+                "Apis",
+                "Coleoptera",
+                "Formicidae",
+                "Rhopalocera"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "How hot is the surface of the sun?",
+              "answers": [
+                "1,233 K",
+                "5,778 K",
+                "12,130 K",
+                "101,300 K"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Who are the actors in The Internship?",
+              "answers": [
+                "Ben Stiller, Jonah Hill",
+                "Courteney Cox, Matt LeBlanc",
+                "Kaley Cuoco, Jim Parsons",
+                "Vince Vaughn, Owen Wilson"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "What is the capital of Spain?",
+              "answers": [
+                "Berlin",
+                "Buenos Aires",
+                "Madrid",
+                "San Juan"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.2",
+          "name": "The Nathu La Case",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.2.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "00:A0:50:8D:54:8D",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "LGF",
+            "description": "Lower Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "Special Attraction",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.3",
+          "name": "Nationalisation of Banks",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.2.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Smt. Indira Gandhi",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "LGF",
+            "description": "Lower Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.4",
+          "name": "The Split in Congress",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.2.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "04e.mp3",
+              "text": "",
+              "mp3": "https://github.com/arshneetkathuria/exhibit_info/raw/master/audio/exhibits/04e.mp3",
+              "active": 1,
+              "status": "",
+              "srt": "assets/audio/srtFiles/04e.json"
+            },
+            {
+              "name": "04e.mp3",
+              "text": "",
+              "mp3": "assets/audio/exhibits/04e.mp3",
+              "active": 1,
+              "status": "",
+              "srt": "assets/audio/srtFiles/04e.json"
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [
+            {
+              "question": "What is the scientific name of a butterfly?",
+              "answers": [
+                "Apis",
+                "Coleoptera",
+                "Formicidae",
+                "Rhopalocera"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "How hot is the surface of the sun?",
+              "answers": [
+                "1,233 K",
+                "5,778 K",
+                "12,130 K",
+                "101,300 K"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Who are the actors in The Internship?",
+              "answers": [
+                "Ben Stiller, Jonah Hill",
+                "Courteney Cox, Matt LeBlanc",
+                "Kaley Cuoco, Jim Parsons",
+                "Vince Vaughn, Owen Wilson"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "What is the capital of Spain?",
+              "answers": [
+                "Berlin",
+                "Buenos Aires",
+                "Madrid",
+                "San Juan"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.5",
+          "name": "Prime Minister Term: 1966 to 1975",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.5.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "Special Attraction",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.6",
+          "name": "The War of 1971",
+          "description": "India’s Independence in 1947 was accompanied by partition.Pakistan became a separate Country. Pakistan consisted of two parts, west and East. The population of East-Pakistan, primarily Bengali, was higher than that of West Pakistan, but from the beginning the east was subjugated culturally and exploited economically by the west. The struggle for Bangladesh Led by Sheikh Mujibur Rahman, began as a movement for justice and equality. Sheikh Mujibur Rahman summed up the people’s demand in a powerful sentence: “If you want to see this happen and give equal rights to Pakistanis, then you have to give Bengal their right to live.” But instead of justice, the people of Bengal got more repression. When Sheikh Mujibur Rahman won the general elections of 1970, he was denied the constitutional right to form a majority government. On the historic night of 25 March 1970 Sheikh Mujibur Rahman liberated his nation of Pakistani oppression by declaring the independence of Bangladesh. He was arrested. The Pakistani Army stationed in large numbers went on a murderous spree of targeted killings, rapes and loot. More than four million terrified Bangladeshis fled from this genocide to various parts of India as refugees. Leading to a massive humanitarian crisis. India gave shelter to the refugees in this hour of crisis. The mood of Bangladeshis turned militant. A revolutionary people’s militia - The Mukti Bahini, rose to fight against Pakistan’s oppression. India’s Prime Minister Smt. Indira Gandhi raised her voice to draw the attention of the world, but no power in the world community intervened to save the lives and destiny of Bangladeshis, who were being massacred in hundreds of thousands. “This would never have been happened, if the world community had woken up to the fact when we first drew their attention to it.” India stood by Bangladesh. In the dusk of 3rd December 1971 Pakistan launched its third war against India. With air raids on Indian Airfields at Amritsar, Pathankot, Srinagar, Avantipur, Uttarlai, Jodhpur, Ambala and Agra. Simultaneously Pakistan’s ground forces started artillery shelling in Sulaimanki, Khemkaran, Poonch and other sectors. Prime Minister Indira Gandhi spoke to the nation that evening, saying: “A few hours ago, at around 5.30 in the evening on the third of December, Pakistan launched an attack on us. We all have to display courage, show perseverance & unity. I have no doubt that the victory will be of the people of India and the brave Indian forces.” On that very night Indian Navy commenced Operation Trident. Three missile boats set off from Mumbai, headed towards Pakistan’s naval base, Karachi. They kept changing course frequently to avoid radar detection. While the crew spoke in Russian to mislead the enemy in case conversation was picked up. Karachi came within firing range, a little before 10 PM on the night of 4 December. At 10:43 PM, the Indian naval vessels had their target’s in sight. PNS Khaiber, a Pakistani destroyer, PNS Shah Jahan and a merchant vessel, carrying ammunition for the Pakistan forces, were destroyed by missiles. The intrepid missile boats with their various crew now turn their attention to the Karachi harbour complex which was set ablaze with the remaining missiles. The boats then returned to Mumbai at full speed. The killer squadron returned to Mumbai the next day to a hero’s welcome. It had not suffered a single casualty. In the east, on the same night of 4 December, an epic naval confrontation took place in the Bay of Bengal. Pakistan had dispatched its powerful submarine, PNS Ghazi, to the vicinity of Visakhapatnam Naval Base, with the objective of destroying India’s sole aircraft carrier INS Vikrant. In a blistering counter attack, INS Rajput sank PNS Ghazi killing all its 90 seaman on board. In a single day, the Indian Navy had created history. The fourth of December has been celebrated as Navy Day ever since. On 6 December, Prime Minister Indira Gandhi, announced before a cheering Parliament, that India had recognised the new nation of Bangladesh. But the war was not yet over. India’s strategy in the east devised under the Command of Army Chief General Sam Manekshaw and Lt. Gen. Jagjit Singh Aurora, head of the eastern command, was to neutralize the Pakistani Air Force, attack from three directions on land, set up a sea blockade in the Bay of Bengal and finally smash the “Dhaka Bowl”, the area between Jamuna, Padma and Meghna rivers where Pakistan had concentrated its defence. The Indian Air Force quickly eliminated the enemy Air force over the Bangladeshi Airspace. The ground war had a clear objective: to aid the Mukti Bahini and capture the capital Dhaka. The Indian Army laid siege to Jessore, Bogra, Rangpur, Comilla, Bhairab Bazaar, Jamalpur, Mymensingh, Sylhet and Chittagong. And thwarted Pakistani army at every point as it raced towards Dhaka. Ingenious and courageous tactics were used to cross geographical barriers like the imposing rivers in a terrain dominated by waterways. Between 7 and 12 December 1971 several battalions of the Indian army were heli landed across the river Meghna. On 12 December a battalion was paradropped at Tangail near Dhaka, in what is considered as an incredible achievement. Mi4 helicopters ferried a brigade across the two-kilometer wide Meghna river. The Pakistani Army was not short of soldiers but it was hugely deficient in morale since it knew that it had been outthought and outmaneuvered. By the 15 December Indian troops and The Mukti Bahini were on the outskirts of Dhaka.\nThe coup de grâce was delivered by the Mukti Bahini’s rocket attack on the Governor’s House in Dhaka. Where the Pakistan Commander General A.A.K. Niyazi has been billeted. The Indian Army was just two miles away. Pakistan’s merciless game was up. General Niyazi who still had over 90,000 troops and requisite ammunition surrendered tamely to  Lt. General Jagjeet Singh Aurora on 16 December 1971. Lance Naik Albert Ekka, Flying Officer Nirmaljit Singh Sekhon, Second Lt. Arun Khetarpal and Major Hoshiar Singh were awarded India's highest military decoration – the Param Vir Chakra. Prime Minister Indira Gandhi told the world that an epochal war of liberation was over: “Brothers and sisters, you would be happy to hear that West Pakistan’s Army has unconditionally laid down its arms in Bangladesh. Dhaka is now an independent capital of a free country.”  Adulation for Smt. Gandhi was at its zenith. On 10 January 1972 Sheikh Mujibur Rahman was released from a Pakistani prison. On his way back to Dhaka, he stopped over in Delhi to thank Smt. Indira Gandhi. Sheikh Mujibur Rahman father of Bangladesh took the oath of office as the new nations first President on 12 January 1972. The war has ended but a formal closure was needed. Talks between India and Pakistan were scheduled to start in the last week of June 1972. Smt. Indira Gandhi reached Shimla on 27 June and reduced a Pakistan’s new President Zulfikar Ali Bhutto arrived the following day. The two leaders signed the Shimla agreement on 2 July 1972. The two nations agreed to settle their differences by peaceful means through bilateral negotiations. Their forces returned to the international borders and the Line of Control. The third Indo-Pak war came to a formal end.",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/images/exhibits/PMP2.6.jpg?raw=true",
+          "color": 2,
+          "ip": "192.168.1.34",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "EA2.6",
+              "text": "",
+              "mp3": "https://github.com/arshneetkathuria/exhibit_info/raw/master/audio/exhibits/EA2.6.mp3",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "5:00",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.7",
+          "name": "Pokhran-1",
+          "description": "",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/images/exhibits/PMP2.7.jpg?raw=true",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.8",
+          "name": "Abolition Of Privy Purses",
+          "description": "",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/images/exhibits/PMP2.7.jpg?raw=true",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "zone1",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "Special Attraction",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [
+            {
+              "question": "What is the scientific name of a butterfly?",
+              "answers": [
+                "Apis",
+                "Coleoptera",
+                "Formicidae",
+                "Rhopalocera"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "How hot is the surface of the sun?",
+              "answers": [
+                "1,233 K",
+                "5,778 K",
+                "12,130 K",
+                "101,300 K"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Who are the actors in The Internship?",
+              "answers": [
+                "Ben Stiller, Jonah Hill",
+                "Courteney Cox, Matt LeBlanc",
+                "Kaley Cuoco, Jim Parsons",
+                "Vince Vaughn, Owen Wilson"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "What is the capital of Spain?",
+              "answers": [
+                "Berlin",
+                "Buenos Aires",
+                "Madrid",
+                "San Juan"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.9",
+          "name": "The Emergency",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.9.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "zone2",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "2.10.",
+          "name": "The Comeback of Smt. Indira Gandhi",
+          "description": "The re-election of Smt. Indira Gandhi in January 1980 was one of the more remarkable resurrections in the history of democracy. Her Congress won 351 seats in the seventh Lok Sabha. She was sworn-in on 14 January 1980.\nIn her address to the nation, She said, “We have only one goal - to build a strong, self-confident, self-reliant, independent India.\nCome, let us work together.”",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.10.jpg",
+          "color": 2,
+          "ip": "192.168.1.48",
+          "ble_mac": "",
+          "quppa_zone": "zone3",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "EA2.10",
+              "text": "",
+              "mp3": "https://github.com/arshneetkathuria/exhibit_info/raw/master/audio/exhibits/EA2.10.mp3",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [
+            {
+              "question": "What is the scientific name of a butterfly?",
+              "answers": [
+                "Apis",
+                "Coleoptera",
+                "Formicidae",
+                "Rhopalocera"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "How hot is the surface of the sun?",
+              "answers": [
+                "1,233 K",
+                "5,778 K",
+                "12,130 K",
+                "101,300 K"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Who are the actors in The Internship?",
+              "answers": [
+                "Ben Stiller, Jonah Hill",
+                "Courteney Cox, Matt LeBlanc",
+                "Kaley Cuoco, Jim Parsons",
+                "Vince Vaughn, Owen Wilson"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "What is the capital of Spain?",
+              "answers": [
+                "Berlin",
+                "Buenos Aires",
+                "Madrid",
+                "San Juan"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.11.",
+          "name": "Defence, Terrorism and Space",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.11.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.12",
+          "name": "Foreign Policy ",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.12.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM2.13",
+          "name": "The Assam Crisis",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.13.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": "",
+            "srt": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": 2.14,
+          "name": "The Punjab Problem",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.14.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": 2.15,
+          "name": "Demise",
+          "description": "On the morning of 31 October 1984 Smt. Indira Gandhi headed from her residencetowards her office located in the same compound for an interview with PeterUstinov, the celebrity actor.\nShe was not wearing the bulletproof vest quired by security regulations. \nAs she walked through her compound, two of her personal security guards, using asten-gun and a revolver, pumped 30 bullets into her body, at precisely 9:29 am.\nThe two were disarmed by other security personnel, and in an ensuing scuffle, oneof them was shot dead.\nThe surviving security guard who had shot the Prime Minister, was tried andsentenced to death and hanged in 1989.\nState radio and television announced her death in the evening news of 31 October.\nAs soon as the news of her assassination spread, outraged mobs turned violent onthe streets, leading to a human catastrophe. \nOn 3 November 1984 the nation wept and over a million people lined the streets, asSmt. Indira Gandhi’s body was taken in a three-and-a-half-hour procession to thebanks of the Yamuna for the final rites.\nSmt. Indira Gandhi’s son, Shri Rajiv Gandhi, lit her pyre.",
+          "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/images/exhibits/PMP2.15.jpg",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "Shri P.V. Narasimha Rao",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "AE2.15",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "2:19",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        }
+      ]
+    }
   ],
   "hi": [
    {
