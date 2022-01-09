@@ -972,10 +972,10 @@
             {
               "name": "04e.mp3",
               "text": "",
-              "mp3": "assets/audio/exhibits/04e.mp3",
+              "mp3": "",
               "active": 1,
               "status": "",
-              "srt": "assets/audio/srtFiles/04e.json"
+              "srt": ""
             }
           ],
           "duration": "",
