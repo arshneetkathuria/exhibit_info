@@ -19,7 +19,7 @@
             ""
           ],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -76,7 +76,7 @@
           "quppa_zone": "GF.1.2",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -134,7 +134,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -192,7 +192,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -291,7 +291,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -349,7 +349,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -407,7 +407,7 @@
           "quppa_zone": "GF.1.6",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -465,7 +465,7 @@
           "quppa_zone": "GF.1.7",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -564,7 +564,7 @@
           "quppa_zone": "GF.1.8",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -622,7 +622,7 @@
           "quppa_zone": "GF.1.9",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri Lal Bahadur Shastri",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -731,7 +731,7 @@
             7
           ],
           "zone": {
-            "name": "Smt. Indira Gandhi",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -830,7 +830,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -888,7 +888,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Smt. Indira Gandhi",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -946,7 +946,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1053,7 +1053,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1111,7 +1111,7 @@
           "quppa_zone": "GF.2.4",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1169,7 +1169,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1227,7 +1227,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1326,7 +1326,7 @@
           "quppa_zone": "zone2",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1384,7 +1384,7 @@
           "quppa_zone": "GF.2.7",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1483,7 +1483,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1541,7 +1541,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1599,7 +1599,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": "",
@@ -1658,7 +1658,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1716,7 +1716,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -1783,7 +1783,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -1882,7 +1882,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -1940,7 +1940,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -1998,7 +1998,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2097,7 +2097,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2155,7 +2155,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2213,7 +2213,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2271,7 +2271,7 @@
           "quppa_zone": "zone1",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2370,7 +2370,7 @@
           "quppa_zone": "zone2",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2428,7 +2428,7 @@
           "quppa_zone": "zone3",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2527,7 +2527,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -2595,7 +2595,7 @@
             7
           ],
           "zone": {
-            "name": "Shri Charan Singh",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -2694,7 +2694,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -2752,7 +2752,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -2810,7 +2810,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -2919,7 +2919,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3018,7 +3018,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3076,7 +3076,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3134,7 +3134,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3233,7 +3233,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3291,7 +3291,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3349,7 +3349,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3407,7 +3407,7 @@
           "quppa_zone": "zone1",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3506,7 +3506,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3564,7 +3564,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3632,7 +3632,7 @@
             ""
           ],
           "zone": {
-            "name": "Shri Vishwanath Pratap Singh",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3690,7 +3690,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3748,7 +3748,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3806,7 +3806,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3905,7 +3905,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -3963,7 +3963,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4031,7 +4031,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4130,7 +4130,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4188,7 +4188,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4246,7 +4246,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4345,7 +4345,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4403,7 +4403,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -4471,7 +4471,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4570,7 +4570,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4628,7 +4628,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4686,7 +4686,7 @@
           "quppa_zone": "GF.3.4",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4785,7 +4785,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4843,7 +4843,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4901,7 +4901,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -4959,7 +4959,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -5058,7 +5058,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -5116,7 +5116,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -5225,7 +5225,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -5324,7 +5324,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -5382,7 +5382,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -5440,7 +5440,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -5539,7 +5539,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -5597,7 +5597,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -5665,7 +5665,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -5764,7 +5764,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -5822,7 +5822,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -5880,7 +5880,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -5979,7 +5979,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -6047,7 +6047,7 @@
             7
           ],
           "zone": {
-            "name": "Shri Atal Bihari Vajpayee",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6146,7 +6146,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6204,7 +6204,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6262,7 +6262,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6361,7 +6361,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6419,7 +6419,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6477,7 +6477,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6535,7 +6535,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6593,7 +6593,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6651,7 +6651,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6709,7 +6709,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6767,7 +6767,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6833,7 +6833,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6891,7 +6891,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -6949,7 +6949,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -7007,7 +7007,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -7075,7 +7075,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7194,7 +7194,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7297,7 +7297,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7400,7 +7400,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7503,7 +7503,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7606,7 +7606,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7709,7 +7709,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7812,7 +7812,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -7915,7 +7915,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8018,7 +8018,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8121,7 +8121,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8224,7 +8224,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8327,7 +8327,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8430,7 +8430,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8533,7 +8533,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8636,7 +8636,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8739,7 +8739,7 @@
             7
           ],
           "zone": {
-            "name": "Shri P.V. Narasimha Rao",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -8850,7 +8850,7 @@
             ""
           ],
           "zone": {
-            "name": "श्री लाल बहादुर शास्त्री",
+            "name":"LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -8949,7 +8949,7 @@
           "quppa_zone": "GF.1.2",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री लाल बहादुर शास्त्री",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9007,7 +9007,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री लाल बहादुर शास्त्री",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9065,7 +9065,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री लाल बहादुर शास्त्री",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9172,7 +9172,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9230,7 +9230,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9288,7 +9288,7 @@
           "quppa_zone": "GF.1.6",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9346,7 +9346,7 @@
           "quppa_zone": "GF.1.7",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9445,7 +9445,7 @@
           "quppa_zone": "GF.1.8",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9503,7 +9503,7 @@
           "quppa_zone": "GF.1.9",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "LalBahadurShastri",
             "description": "",
             "active": 1,
             "status": ""
@@ -9612,7 +9612,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -9711,7 +9711,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -9769,7 +9769,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -9827,7 +9827,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -9926,7 +9926,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -9984,7 +9984,7 @@
           "quppa_zone": "GF.2.4",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10042,7 +10042,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10100,7 +10100,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10199,7 +10199,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10257,7 +10257,7 @@
           "quppa_zone": "GF.2.7",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10356,7 +10356,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10414,7 +10414,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10472,7 +10472,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10530,7 +10530,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10588,7 +10588,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IndiraGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -10656,7 +10656,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -10755,7 +10755,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -10813,7 +10813,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -10871,7 +10871,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -10970,7 +10970,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11028,7 +11028,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11086,7 +11086,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11144,7 +11144,7 @@
           "quppa_zone": "zone1",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11243,7 +11243,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11301,7 +11301,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11400,7 +11400,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "MorarjiDesai",
             "description": "",
             "active": 1,
             "status": ""
@@ -11468,7 +11468,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -11567,7 +11567,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -11625,7 +11625,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -11683,7 +11683,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChaudharyCharanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -11792,7 +11792,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -11891,7 +11891,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -11949,7 +11949,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12007,7 +12007,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12106,7 +12106,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12164,7 +12164,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12222,7 +12222,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12280,7 +12280,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12379,7 +12379,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12437,7 +12437,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "RajivGandhi",
             "description": "",
             "active": 1,
             "status": ""
@@ -12505,7 +12505,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -12595,7 +12595,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -12653,7 +12653,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -12711,7 +12711,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -12810,7 +12810,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -12868,7 +12868,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "V.P.Singh",
             "description": "",
             "active": 1,
             "status": ""
@@ -12936,7 +12936,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChandraShekhar",
             "description": "",
             "active": 1,
             "status": ""
@@ -13035,7 +13035,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChandraShekhar",
             "description": "",
             "active": 1,
             "status": ""
@@ -13093,7 +13093,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChandraShekhar",
             "description": "",
             "active": 1,
             "status": ""
@@ -13151,7 +13151,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChandraShekhar",
             "description": "",
             "active": 1,
             "status": ""
@@ -13241,7 +13241,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChandraShekhar",
             "description": "",
             "active": 1,
             "status": ""
@@ -13299,7 +13299,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ChandraShekhar",
             "description": "",
             "active": 1,
             "status": ""
@@ -13367,7 +13367,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13466,7 +13466,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13524,7 +13524,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13582,7 +13582,7 @@
           "quppa_zone": "GF.3.4",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13681,7 +13681,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13739,7 +13739,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13797,7 +13797,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13855,7 +13855,7 @@
           "quppa_zone": "zone1",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -13954,7 +13954,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -14012,7 +14012,7 @@
           "quppa_zone": "zone3",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "PVNarsimhaRao",
             "description": "",
             "active": 1,
             "status": ""
@@ -14121,7 +14121,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -14220,7 +14220,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -14278,7 +14278,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -14336,7 +14336,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -14435,7 +14435,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -14493,7 +14493,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "HDDvegoda",
             "description": "",
             "active": 1,
             "status": ""
@@ -14561,7 +14561,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -14660,7 +14660,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -14718,7 +14718,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -14776,7 +14776,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -14875,7 +14875,7 @@
           "quppa_zone": "",
           "adjacent_zone": [],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "IKGujral",
             "description": "",
             "active": 1,
             "status": ""
@@ -14943,7 +14943,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15046,7 +15046,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15149,7 +15149,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15252,7 +15252,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15355,7 +15355,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15458,7 +15458,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15561,7 +15561,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15664,7 +15664,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15767,7 +15767,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15870,7 +15870,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -15973,7 +15973,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -16076,7 +16076,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -16187,7 +16187,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -16290,7 +16290,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -16393,7 +16393,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -16496,7 +16496,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "AtalBihariVajpayee",
             "description": "",
             "active": 1,
             "status": ""
@@ -16605,7 +16605,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -16724,7 +16724,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -16827,7 +16827,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -16930,7 +16930,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17033,7 +17033,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17136,7 +17136,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17239,7 +17239,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17342,7 +17342,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17445,7 +17445,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17548,7 +17548,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17651,7 +17651,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17754,7 +17754,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17857,7 +17857,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -17960,7 +17960,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -18063,7 +18063,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -18166,7 +18166,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
@@ -18269,7 +18269,7 @@
             7
           ],
           "zone": {
-            "name": "श्री पी. वी. नरसिम्हा राव",
+            "name": "ManmohanSingh",
             "description": "",
             "active": 1,
             "status": ""
