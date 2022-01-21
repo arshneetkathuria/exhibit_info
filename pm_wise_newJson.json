@@ -13,11 +13,7 @@
           "ip": "127.0.0.1",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            "",
-            "",
-            ""
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "LalBahadurShastri",
             "description": "",
@@ -74,7 +70,7 @@
           "ip": "192.168.1.6",
           "ble_mac": "00:A0:50:8D:54:8D",
           "quppa_zone": "GF.1.2",
-          "adjacent_zone": [],
+          "adjacent_zone": ["PM1.5","PM1.2","PM1.6"],
           "zone": {
             "name": "LalBahadurShastri",
             "description": "",
@@ -725,11 +721,7 @@
           "ip": "192.168.1.28",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.2.1",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "IndiraGandhi",
             "description": "",
@@ -8947,7 +8939,7 @@
           "ip": "192.168.1.6",
           "ble_mac": "00:A0:50:8D:54:8D",
           "quppa_zone": "GF.1.2",
-          "adjacent_zone": [],
+          "adjacent_zone": ["PM1.5","PM1.2","PM1.6"]
           "zone": {
             "name": "LalBahadurShastri",
             "description": "",
