@@ -1769,11 +1769,7 @@
           "color": 2,
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "MorarjiDesai",
             "description": "",
@@ -2581,11 +2577,7 @@
           "ip": "192.168.2.24",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
             "description": "",
@@ -2905,11 +2897,7 @@
           "ip": "192.168.2.33",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
             "description": "",
@@ -3618,11 +3606,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            "",
-            "",
-            ""
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
             "description": "",
@@ -4017,11 +4001,7 @@
           "ip": "192.168.2.56",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
             "description": "",
@@ -4457,11 +4437,7 @@
           "ip": "192.168.1.61",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.3.1",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "PVNarsimhaRao",
             "description": "",
@@ -5211,11 +5187,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "HDDvegoda",
             "description": "",
@@ -5651,11 +5623,7 @@
           "ip": "192.168.1.84",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.5.2",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "IKGujral",
             "description": "",
@@ -6033,11 +6001,7 @@
           "ip": "192.168.1.103",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.6.2",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
             "description": "",
@@ -7061,11 +7025,7 @@
           "ip": "192.168.1.133",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.7.1",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7180,11 +7140,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7283,11 +7239,7 @@
           "ip": "192.168.1.134",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.7.2",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7386,11 +7338,7 @@
           "ip": "192.168.1.121",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.7.4",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7489,11 +7437,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7592,11 +7536,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7695,11 +7635,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7798,11 +7734,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -7901,11 +7833,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8004,11 +7932,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8107,11 +8031,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8210,11 +8130,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8313,11 +8229,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8416,11 +8328,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8519,11 +8427,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8622,11 +8526,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8725,11 +8625,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -8836,11 +8732,7 @@
           "ip": "",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "",
-          "adjacent_zone": [
-            "",
-            "",
-            ""
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name":"LalBahadurShastri",
             "description": "",
@@ -14547,11 +14439,7 @@
           "ip": "192.168.1.84",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.5.2",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "IKGujral",
             "description": "",
@@ -16591,11 +16479,7 @@
           "ip": "192.168.1.133",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.7.1",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
@@ -16916,11 +16800,7 @@
           "ip": "192.168.1.121",
           "ble_mac": "00:A0:50:4D:36:B3",
           "quppa_zone": "GF.7.4",
-          "adjacent_zone": [
-            3,
-            5,
-            7
-          ],
+          "adjacent_zone": [],
           "zone": {
             "name": "ManmohanSingh",
             "description": "",
