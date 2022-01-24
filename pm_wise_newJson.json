@@ -6032,7 +6032,7 @@
           "color": 2,
           "ip": "192.168.1.103",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.2",
           "adjacent_zone": [
             3,
             5,
@@ -6135,7 +6135,7 @@
           "color": 2,
           "ip": "192.168.1.105",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.3",
           "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
@@ -6582,7 +6582,7 @@
           "color": 2,
           "ip": "192.168.1.112",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.9",
           "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
@@ -6640,7 +6640,7 @@
           "color": 2,
           "ip": "192.168.1.123",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.10",
           "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
@@ -6698,7 +6698,7 @@
           "color": 2,
           "ip": "192.168.1.124",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.11",
           "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
@@ -6756,7 +6756,7 @@
           "color": 2,
           "ip": "192.168.1.122",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.8.1",
           "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
@@ -6996,7 +6996,7 @@
           "color": 2,
           "ip": "192.168.1.127",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.13",
           "adjacent_zone": [],
           "zone": {
             "name": "AtalBihariVajpayee",
@@ -7060,7 +7060,7 @@
           "color": 2,
           "ip": "192.168.1.133",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.7.1",
           "adjacent_zone": [
             3,
             5,
@@ -7282,7 +7282,7 @@
           "color": 2,
           "ip": "192.168.1.134",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.7.2",
           "adjacent_zone": [
             3,
             5,
@@ -7385,7 +7385,7 @@
           "color": 2,
           "ip": "192.168.1.121",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.7.4",
           "adjacent_zone": [
             3,
             5,
@@ -14928,7 +14928,7 @@
           "color": 2,
           "ip": "192.168.1.103",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.2",
           "adjacent_zone": [
             3,
             5,
@@ -15752,7 +15752,7 @@
           "color": 2,
           "ip": "192.168.1.112",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.9",
           "adjacent_zone": [
             3,
             5,
@@ -15855,7 +15855,7 @@
           "color": 2,
           "ip": "192.168.1.123",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.10",
           "adjacent_zone": [
             3,
             5,
@@ -15958,7 +15958,7 @@
           "color": 2,
           "ip": "192.168.1.124",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.11",
           "adjacent_zone": [
             3,
             5,
@@ -16061,7 +16061,7 @@
           "color": 2,
           "ip": "192.168.1.122",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.8.1",
           "adjacent_zone": [
             3,
             5,
@@ -16481,7 +16481,7 @@
           "color": 2,
           "ip": "192.168.1.127",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.6.13",
           "adjacent_zone": [
             3,
             5,
@@ -16590,7 +16590,7 @@
           "color": 2,
           "ip": "192.168.1.133",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.7.1",
           "adjacent_zone": [
             3,
             5,
@@ -16812,7 +16812,7 @@
           "color": 2,
           "ip": "192.168.1.134",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.7.2",
           "adjacent_zone": [
             3,
             5,
@@ -16915,7 +16915,7 @@
           "color": 2,
           "ip": "192.168.1.121",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "GF.7.4",
           "adjacent_zone": [
             3,
             5,
