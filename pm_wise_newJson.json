@@ -70,7 +70,7 @@
           "ip": "192.168.1.6",
           "ble_mac": "00:A0:50:8D:54:8D",
           "quppa_zone": "GF.1.2",
-          "adjacent_zone": ["PM1.2","PM1.1","PM1.8"],
+          "adjacent_zone": [],
           "zone": {
             "name": "LalBahadurShastri",
             "description": "",
