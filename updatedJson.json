@@ -9,7 +9,7 @@
           "id": "PM1.1",
           "name": "Early Life and Political Journey",
           "system_type": "",
-          "description": "",
+          "description": "The Prime Minister, Shri Lal Bahadur Shastri was born on 2 October, 1904 at Mughalsarai in Uttar Pradesh. ‘Shastri’ was the honorific awarded to him upon graduation, and became an indelible part of his name.",
           "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/pm1/PMP1.1.jpg",
           "color": 2,
           "ip": "127.0.0.1",
@@ -126,7 +126,7 @@
           "id": "PM1.3",
           "name": "White Revolution",
           "system_type": "",
-          "description": "",
+          "description": "The White Revolution was led by Prime Minister Shri Shastri in order to make the country self-sufficient in milk and other dairy products. The aim was realised thanks to efforts such as cattle feed factories and milk producer cooperatives.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -183,9 +183,9 @@
         },
         {
           "id": "PM1.4",
-          "name": "Nuclear Policy and Economic Initiative",
+          "name": "Nuclear Policy",
           "system_type": "",
-          "description": "",
+          "description": "The Prime Minister, Shri Shastri believed in developmental use of nuclear technology. While speaking at the opening of a plutonium plant at Trombay, he regretted that nuclear energy was being weaponised.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.4.jpg?raw=true",
           "color": 2,
           "ip": "127.0.0.1",
@@ -283,9 +283,109 @@
         },
         {
           "id": "PM1.5",
-          "name": "Language Agitation and Foreign Policy",
+          "name": "Economic Initiative",
           "system_type": "",
-          "description": "",
+          "description": "The Prime Minister Shri Shastri focused on an overall development of the economy. His initiatives resulted in an increase in national income as well as increased industrial and agricultural productivity.",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.4.jpg?raw=true",
+          "color": 2,
+          "ip": "127.0.0.1",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "LalBahadurShastri",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "LGF",
+            "description": "Lower Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [
+            {
+              "question": "What is the scientific name of a butterfly?",
+              "answers": [
+                "Apis",
+                "Coleoptera",
+                "Formicidae",
+                "Rhopalocera"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "How hot is the surface of the sun?",
+              "answers": [
+                "1,233 K",
+                "5,778 K",
+                "12,130 K",
+                "101,300 K"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Who are the actors in The Internship?",
+              "answers": [
+                "Ben Stiller, Jonah Hill",
+                "Courteney Cox, Matt LeBlanc",
+                "Kaley Cuoco, Jim Parsons",
+                "Vince Vaughn, Owen Wilson"
+              ],
+              "correctIndex": 3
+            },
+            {
+              "question": "What is the capital of Spain?",
+              "answers": [
+                "Berlin",
+                "Buenos Aires",
+                "Madrid",
+                "San Juan"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM1.6",
+          "name": "Language Agitation",
+          "system_type": "",
+          "description": "In order to settle down the Tamil movement against the introduction of Hindi as an official language, Shri Lal Bahadur Shastri insisted on the importance of national unity over all other concerns.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -341,10 +441,69 @@
           "status": "open"
         },
         {
-          "id": "PM1.6",
+          "id": "PM1.7",
+          "name": "Foreign Policy",
+          "system_type": "",
+          "description": "The Prime Minister, Shri Lal Bahadur Shastri reaffirmed the traditional contours of nuclear disarmament, international collaboration, and world peace in his foreign policy.",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.5.jpg?raw=true",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "LalBahadurShastri",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "LGF",
+            "description": "Lower Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "Special Attraction",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM1.8",
           "name": "Jai Jawan Jai kisan",
           "system_type": "",
-          "description": "",
+          "description": "After having achieved success on both fronts, the agrarian crisis and the aggression by Pakistanis, Shastriji gave to the nation the slogan \"Jai Jawan! Jai Kisan!\" on October 21st, 1965, at Urwa Maja near Prayagraj.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -459,10 +618,10 @@
           "status": "open"
         },
         {
-          "id": "PM1.8",
+          "id": "PM1.9",
           "name": "Speeches on AIR",
           "system_type": "",
-          "description": "Audio is available in Hindi only.",
+          "description": "There were many challenges before Shastri ji when he became Prime Minister, as the country was going through an acute food shortage. On the National Solidarity Day broadcast, he motivated the countrymen with his powerful words. (Audio is available in Hindi only)",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.8.jpg?raw=true",
           "color": 2,
           "ip": "192.168.1.18",
@@ -559,7 +718,7 @@
           "status": "open"
         },
         {
-          "id": "PM1.9",
+          "id": "PM1.10",
           "name": "The Tashkent Agreement 1966",
           "system_type": "",
           "description": "Prime Minister Shastri left for Tashkent on 3 January 1966 with a strong Indian delegation that included Defence Minister Y.B. Chavan and Foreign Minister Swaran Singh. \nField Marshal Ayub Khan, accompanied by his Foreign Minister Zulfikar Ali Bhutto, headed the Pakistani delegation. \nThe chief Soviet intermediary was Premier Aleksey Nikolayevich Kosygin.\nPrime Minister Shastri arrived on 4 January, and soon made it clear that India’s sovereignty over Jammu and Kashmir was non-negotiable. The state would always remain an integral part of India. Ayub Khan was left with no option but to accept India’s position on Kashmir. The next morning, Prime Minister Shastri and Field Marshal Ayub Khan held one-to-one discussions.\nThereafter, delegation-level talks began, which continued for 48 hours. When negotiations seemed to have become intractable, Premier Kosygin used his cogent diplomatic skills to narrow differences. On 10 January 1966, the Tashkent Agreement was signed by Prime Minister Shastri and President Ayub Khan.\n“We tried to open a new chapter in Indo-Pakistan relationship.”\nThe Main Features of the Tashkent Declaration were to:\n        Restore normal and peaceful relations between India and Pakistan\n        Promote understanding and friendly relations between their peoples\n        Reaffirm their obligations, under United Nations Charter, to settle their disputes through peaceful means and not use force \n        Discourage any propaganda directed against the other country\n        Withdraw all armed personnel of the two countries back to the positions they held prior to 5 August 1965\n        Repatriate prisoners of warThe ink was not dry on the declaration, when a tragedy sent India into shocked grief.\n\n",
@@ -618,7 +777,7 @@
           "status": "open"
         },
         {
-          "id": "PM1.10",
+          "id": "PM1.11",
           "name": "Nation pays homage",
           "system_type": "",
           "description": "The Tashkent Agreement with Pakistan had been signed, and Prime Minister Shashtri retired after a dinner for the delegations. He ate a small piece of toast and drank a glass of milk as he turned towards bed.\nHe was scheduled to leave for Delhi via Afghanistan the next morning. For India’s second Prime Minister, the dawn never come. He died of a sudden heart attack in his sleep.\nPresident Ayub Khan of Pakistan and Premier Aleksey Nikolayevich Kosygin of the Soviet Union carried his coffin to the special aircraft at Tashkent airport, as India awaited the return of its beloved leader with a heavy burden in its heart.\nThe flight landed at Delhi at two in the afternoon on 11 January.\nPresident Sarvepalli Radhakrishnan, Vice President Zakir Hussain and Gulzarilal Nanda, acting Prime Minister, along with the three service chiefs and a stunned nation waited for a hero, whose humility was matched by his courage.\nHe had led his country to victory in war and wanted only peace and prosperity for his people. His bereaved wife Smt. Lalita Devi fainted when Prime Minister Shastri’s body reached his residence.\nOne of the most admired leaders of the nation was cremated on 11 January 1966 at Vijay Ghat, in between the samadhis of Mahatma Gandhi and Jawaharlal Nehru. Shri Lal Bahadur Shastri had gone, but he would never be forgotten.\n\n",
@@ -828,7 +987,7 @@
           "id": "PM2.2",
           "name": "The Nathu La Case",
           "system_type": "",
-          "description": "",
+          "description": "On 11 September 1967 Chinese troops attacked Indian posts near Nathu La on the Sikkim border. India retaliated on 10 October and proved that 1967 was not 1962.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -887,7 +1046,7 @@
           "id": "PM2.3",
           "name": "Nationalisation of Banks",
           "system_type": "",
-          "description": "",
+          "description": "On 19 July 1969 the government nationalized the 14 largest private sector banks. Its impact was positive as bank branches spread into rural areas for the first time. There was a massive rise in deposits and investment flowing into the informal sector.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -946,7 +1105,7 @@
           "id": "PM2.4",
           "name": "The Split in Congress",
           "system_type": "",
-          "description": "",
+          "description": "The Presidential election held in August, 1969, set the stage for the split in Congress. In this election, instead of favouring the Congress candidate, Smt. Gandhi backed Shri V.V. Giri.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1054,7 +1213,7 @@
           "id": "PM2.5",
           "name": "Prime Minister Term: 1966 to 1975",
           "system_type": "",
-          "description": "",
+          "description": "During the period from 1966 to 1975, the country faced many issues including the food crisis and the anti-cow slaughter agitation. Major decisions of the government were associated with the devaluation of the rupee, the official languages Act, the nationalisation of banks, the nationalisation of industries, the abolition of privy purses, etc.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1172,7 +1331,7 @@
           "id": "PM2.7",
           "name": "Pokhran-1",
           "system_type": "",
-          "description": "",
+          "description": "On 18 May 1974, India’s Atomic Energy Commission successfully carried out an underground nuclear explosion at Pokhran Test Range in Rajasthan.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1231,7 +1390,7 @@
           "id": "PM2.8",
           "name": "Abolition Of Privy Purses",
           "system_type": "",
-          "description": "",
+          "description": "The dynasties which had ruled Princely States under the protection of the British were granted privy purses and privileges as part of the terms for their accession into the Union of India. Smt Gandhi's government decided to abolish privy purses.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1331,7 +1490,7 @@
           "id": "PM2.9",
           "name": "The Emergency",
           "system_type": "",
-          "description": "",
+          "description": "On 12 June 1975 Smt. Gandhi was found guilty by the Allahabad High Court for malpractices in the general elections of 1971. The opposition asked for her resignation, but on the recommendations of Smt. Gandhi, the President of India proclaimed an emergency in the country.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.9.jpg?raw=true",
           "color": 2,
           "ip": "192.168.1.38",
@@ -1490,7 +1649,7 @@
           "id": "PM2.11.",
           "name": "Defence, Terrorism and Space",
           "system_type": "",
-          "description": "",
+          "description": "Smt. Gandhi made efforts to strengthen India’s defence. During the same period, the country faced four cases of hijacking, the first being in 1976, and then in 1981, 1982, and 1984. In space science, India launched its first communication satellite, Rohini-1 on 18 July 1980.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.11.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1549,7 +1708,7 @@
           "id": "PM2.12",
           "name": "Foreign Policy ",
           "system_type": "",
-          "description": "",
+          "description": "In foreign affairs, Smt. Gandhi maintained cordial relations with the Soviet Union. China and Pakistan posed the greatest security threats to the country, which she successfully addressed.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.12.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1608,7 +1767,7 @@
           "id": "PM2.13",
           "name": "The Assam Crisis",
           "system_type": "",
-          "description": "",
+          "description": "The agitation by the All Assam Students’ Union and the All Assam Gana Sangram Parishad posed a severe challenge to Smt. Gandhi’s government.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.13.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -1668,7 +1827,7 @@
           "id": "PM2.14",
           "name": "The Punjab Problem",
           "system_type": "",
-          "description": "",
+          "description": "Between 1980 and 1984, India witnessed severe problems of seccenism in Punjab, which ravaged the state.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.14.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -8855,7 +9014,7 @@
           "id": "PM1.1",
           "name": "आरंभिक जीवन एवं राजनीतिक यात्रा",
           "system_type": "",
-          "description": "",
+          "description": "प्रधानमंत्री श्री लाल बहादुर शास्त्री का जन्म 2 अक्टूबर, 1904 को मुग़लसराय, उत्तर प्रदेश में हुआ था। स्नातक पूरा करने पर उन्हें 'शास्त्री' का सम्मान मिला, जो उनके नाम का एक अमिट हिस्सा बन गया।",
           "image": "https://raw.githubusercontent.com/arshneetkathuria/exhibit_info/master/pm1/PMP1.1.jpg",
           "color": 2,
           "ip": "",
@@ -9014,7 +9173,7 @@
           "id": "PM1.3",
           "name": "श्वेत क्रांति",
           "system_type": "",
-          "description": "",
+          "description": "देश को दूध एवं दुग्ध उत्पादों में आत्मनिर्भर बनाने के लिए प्रधानमंत्री श्री शास्त्री ने श्वेत क्रांति का नेतृत्व किया। पशु चारा कारखाने और दुग्ध उत्पादकों की सहकारिता बनाने जैसे प्रयासों के माध्यम से लक्ष्य को पूरा किया जा सका।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9073,7 +9232,7 @@
           "id": "PM1.4",
           "name": "परमाणु नीति और आर्थिक पहल",
           "system_type": "",
-          "description": "",
+          "description": "प्रधानमंत्री श्री लाल बहादुर शास्त्री परमाणु प्रौद्योगिकी के विकासपरक उपयोग में विश्वास रखते थे। ट्रॉम्बे में प्लूटोनियम संयंत्र के उद्घाटन के अवसर पर बोलते हुए, उन्होंने खेद व्यक्त किया कि परमाणु ऊर्जा को हथियार बनाया जा रहा था।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9181,7 +9340,7 @@
           "id": "PM1.5",
           "name": "भाषा आंदोलन और विदेश नीति",
           "system_type": "",
-          "description": "",
+          "description": "हिंदी को आधिकारिक भाषा बनाने के विरोध में तमिल आन्दोलन को शांत करने के उद्देश्य से श्री लाल बहादुर शास्त्री ने बल दिया कि राष्ट्र की एकता-अखंडता बाक़ी सभी मुद्दों से कहीं अधिक महत्त्वपूर्ण है।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9240,7 +9399,7 @@
           "id": "PM1.6",
           "name": "जय जवान जय किसान",
           "system_type": "",
-          "description": "",
+          "description": "कृषि संकट और पाकिस्तानी आक्रमण दोनों मोर्चों पर सफलता हासिल करने के बाद 21 अक्टूबर 1965 को प्रयागराज के एक गाँव उरवा मेजा में शास्त्री जी ने राष्ट्र को \"जय जवान! जय किसान!\" का नारा दिया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm1/PMP1.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9727,7 +9886,7 @@
           "id": "PM2.2",
           "name": "नाथुला की घटना",
           "system_type": "",
-          "description": "",
+          "description": "11 सितंबर 1967 को चीन की सेना ने सिक्किम सीमा पर नाथूला के पास भारतीय चौकियों पर हमला किया। 10 अक्टूबर को भारत ने कठोर प्रतिक्रिया करके साबित कर दिया कि 1967 वर्ष 1962 से अलग था।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9786,7 +9945,7 @@
           "id": "PM2.3",
           "name": "बैंकों का राष्ट्रीयकरण",
           "system_type": "",
-          "description": "",
+          "description": "19 जुलाई 1969 को सरकार ने 14 सबसे बड़े निजी क्षेत्र के बैंकों का राष्ट्रीयकरण किया। इसका प्रभाव सकारात्मक रहा क्योंकि पहली बार ग्रामीण क्षेत्रों में बैंक की शाखाएं खुलीं। अनौपचारिक क्षेत्र में जमा और निवेश में अत्यधिक वृद्धि हुई।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9845,7 +10004,7 @@
           "id": "PM2.4",
           "name": "कांग्रेस में विभाजन",
           "system_type": "",
-          "description": "",
+          "description": "अगस्त 1969 में हुए राष्ट्रपति चुनाव के साथ कांग्रेस में विभाजन के लिए मंच तैयार हो गया, क्योंकि इस चुनाव में श्रीमती गांधी ने कांग्रेस उम्मीदवार के बजाय श्री वी.वी. गिरि के पक्ष में प्रचार किया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -9945,7 +10104,7 @@
           "id": "PM2.5",
           "name": "प्रधानमंत्री पद का कार्यकाल - 1966 से 1975 ",
           "system_type": "",
-          "description": "",
+          "description": "1966 से 1975 के दौरान, देश को खाद्य संकट और गोहत्या विरोधी आंदोलन जैसी अनेक समस्याओं का सामना करना पड़ा। इस अवधि में सरकार के प्रमुख निर्णयों में रुपये का अवमूल्यन, राजभाषा अधिनियम, बैंकों का राष्ट्रीयकरण, उद्योगों का राष्ट्रीयकरण, प्रिवी पर्स का उन्मूलन आदि शामिल थे।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -10063,7 +10222,7 @@
           "id": "PM2.7",
           "name": "पोखरण-1",
           "system_type": "",
-          "description": "",
+          "description": "18 मई 1974 को भारत के परमाणु ऊर्जा आयोग ने राजस्थान के पोखरण टेस्ट रेंज में सफलतापूर्वक भूमिगत परमाणु विस्फोट किया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -10122,7 +10281,7 @@
           "id": "PM2.8",
           "name": "प्रिवी-पर्सों का उन्मूलन",
           "system_type": "",
-          "description": "",
+          "description": "ब्रिटिश शासन के अंतर्गत रियासतों पर राज्य करने वाले राजवंशों को भारतीय संघ में शामिल करते समय उन्हें प्रिवी पर्स और विशेषाधिकार दिए गए थे। श्रीमती गांधी की सरकार ने प्रिवी पर्स को समाप्त करने का निर्णय लिया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -10222,7 +10381,7 @@
           "id": "PM2.9",
           "name": "आपातकाल",
           "system_type": "",
-          "description": "",
+          "description": "12 जून 1975 को इलाहाबाद उच्च न्यायालय ने 1971 के आम चुनावों में कदाचार के लिए श्रीमती गांधी को दोषी पाया। विपक्ष ने उनके त्यागपत्र की माँग की लेकिन श्रीमती की सिफारिश पर भारत के राष्ट्रपति ने देश में आपातकाल की घोषणा कर दी।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.9.jpg?raw=true",
           "color": 2,
           "ip": "192.168.1.38",
@@ -10381,7 +10540,7 @@
           "id": "PM2.11",
           "name": "रक्षा, आतंकवाद और अंतरिक्ष",
           "system_type": "",
-          "description": "",
+          "description": "श्रीमती गांधी ने भारत की रक्षण शक्ति बढ़ाने के प्रयास किए। इसी दौरान देश में चार बार विमान अपहरण के कांड हुए, पहला 1976 में और फिर 1981, 1982 और 1984 में। अंतरिक्ष विज्ञान के क्षेत्र में 18 जुलाई 1980 को भारत ने अपना पहला संचार उपग्रह रोहिणी-1 लॉन्च किया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.11.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -10440,7 +10599,7 @@
           "id": "PM2.12",
           "name": "विदेश नीति",
           "system_type": "",
-          "description": "",
+          "description": "विदेशी मामलों में श्रीमती गांधी ने सोवियत संघ के साथ अच्छे संबंध स्थापित किए। इस दौर में देश की सुरक्षा के लिए सबसे बड़ा खतरा चीन और पाकिस्तान थे, जिनसे निपटने में वह सफल रहीं।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.12.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -10499,7 +10658,7 @@
           "id": "PM2.13",
           "name": "असम संकट",
           "system_type": "",
-          "description": "",
+          "description": "ऑल असम स्टूडेंट्स यूनियन और ऑल असम गण संग्राम परिषद के आंदोलनों ने श्रीमती गांधी की सरकार के सामने गंभीर चुनौती पेश की।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.13.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -10558,7 +10717,7 @@
           "id": "PM2.14",
           "name": "पंजाब समस्या",
           "system_type": "",
-          "description": "",
+          "description": "1980 और 1984 के बीच पंजाब में अलगाववाद की समस्या ने जिसने राज्य को तबाह कर दिया और पूरे देश के सामने गंभीर समस्या उत्पन्न की।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm2/PMP2.14.jpg?raw=true",
           "color": 2,
           "ip": "",
