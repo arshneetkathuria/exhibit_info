@@ -1955,8 +1955,9 @@
           "description": "Shri Morarji Ranchhodji Desai was born on 29 February 1896 in a village called Bhadeli in Gujarat.\nHis father Ranchhodji, headmaster of an English middle school, and his mother, Maniben, brought him up in an ethical environment of strict values.\nThe Desai family had limited means of earning. Shri Morarji Desai used to help his mother financially from the ten rupees he received as scholarship from Bhavnagar State.\nIn school, he was both athletic and studious.\nHe learnt Sanskrit, and he studied the great religious texts of Ramayana and Mahabharata.\nShrimad Bhagavad Gita shaped the philosophy of his life, and Mahatma Gandhi, and Bal Gangadhar Tilak inspired him greatly.\nIn 1918 he received his graduate degree from Wilson College in Bombay. For twelve years he worked as a Deputy Collector at Ahmedabad.\nHe wore a long coat, trousers and a turban as a bureaucrat.\nShri Morarji Desai was married to Gujraben.\nHe was tempted to join the non-cooperation movement of 1921, but worries about the education of siblings and marriage of a sister kept him back in a salaried post.\nA turning point came on 12 March 1930 when Shri Morarji Desai went to see Mahatma Gandhi's Dandi March.\nBy the time it ended, he had decided that his place was no longer inside government. He resigned as a bureaucrat and joined Gandhiji.\nShri Morarji Desai went to jail for the first time in October 1930. Later on, he was jailed four times.\nAware of his integrity and apprehensive about his personal finances, Gandhiji once asked Morarjibhai whether he would like to return to government service, to which he replied that there was no question of him leaving the freedom struggle until India had gotten Swaraj.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.1.jpg?raw=true",
           "color": 2,
+          "ip": "192.168.2.2",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.1.1.1",
           "adjacent_zone": [],
           "zone": {
             "name": "MorarjiDesai",
@@ -2051,7 +2052,7 @@
           "id": "PM3.2",
           "name": "Political Journey: 1937 to 1963 ",
           "system_type": "",
-          "description": "",
+          "description": "Shri Morarji Desai embarked on a long political journey that began in 1937, when he became a Minister in the first Congress government in Bombay. Later, he became the Chief Miniser of Bombay, and in 1956, he joined Shri Nehru's cabinet in the centre as a Finance Minister. ",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2073,16 +2074,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2110,7 +2102,7 @@
           "id": "PM3.3",
           "name": "Political Journey: 1963 to 1975  ",
           "system_type": "",
-          "description": "",
+          "description": "Shri Morarji Desai’s political journey entered a different phase with Prime Minister Shastri and later with Smt. Indira Gandhi.\nThe continuous conflict between him and Smt. Gandhi widened the differences between the two, and ultimately he left the Congress party.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2132,16 +2124,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2169,7 +2152,7 @@
           "id": "PM3.4",
           "name": "Formation of Janata Morcha and Declaration Of Emergency",
           "system_type": "",
-          "description": "",
+          "description": "In 1975, he played a crucial role in the formation of the Janata Morcha, a coalition of opposition parties in Gujarat which formed a new government in the state. In June of the same year, an emergency was declared, and numerous politicians, including Shri Morarji Desai, were imprisoned.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2191,16 +2174,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2269,7 +2243,7 @@
           "id": "PM3.5",
           "name": "Making of a Prime Minister ",
           "system_type": "",
-          "description": "",
+          "description": "In the historic elections of 1977, the Janata Party came to power, and Shri Morarji Desai became Prime Minister, who was the obvious choice to head the government in terms of stature and experience.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2328,7 +2302,7 @@
           "id": "PM3.6",
           "name": "Pledge and Victory Rally",
           "system_type": "",
-          "description": "",
+          "description": "After forming the government, the Janata Party leaders paid homage to Mahatma Gandhi at Rajghat and took a pledge to selflessly serve the nation. They held a massive public meeting at Ramlila Maidan in Delhi.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2387,7 +2361,7 @@
           "id": "PM3.7",
           "name": "Desai Style and Substance,The Nagaland Initiativeand Demonetisation ",
           "system_type": "",
-          "description": " ",
+          "description": "  Shri Morarji Desai’s viewpoints were reflected in his decisions. He startled the nation with his initiatives in Nagaland and the demonetisation of high-value currency notes.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2451,7 +2425,7 @@
           "color": 2,
           "ip": "192.168.2.10",
           "ble_mac": "",
-          "quppa_zone": "zone1",
+          "quppa_zone": "FF.1.4.1",
           "adjacent_zone": [],
           "zone": {
             "name": "MorarjiDesai",
@@ -2546,7 +2520,7 @@
           "id": "PM3.9",
           "name": "Freedom of Press",
           "system_type": "",
-          "description": "",
+          "description": "During the emergency, the freedom of the press was curbed by Smt. Gandhi’s government. Shri Morarji Desai’s government took initiatives to ensure the freedom of the press.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2568,16 +2542,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2605,7 +2570,7 @@
           "id": "PM3.10",
           "name": "Foriegn Policy",
           "system_type": "",
-          "description": "",
+          "description": "The government of Shri Morarji Desai created good relations with Israel and established peace with other nations, including Pakistan and China.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2627,16 +2592,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2705,7 +2661,7 @@
           "id": "PM3.11",
           "name": "Internal Political Conflict, Retirement and Last Phase",
           "system_type": "",
-          "description": "",
+          "description": "Good governance could not contain the power struggle within the Janata government. The chasm caused internal fault lines that led the Janata Party to split by mid-1979.\nShri Morarji Desai passed away in 1995 at the age of 99.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.11.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2727,16 +2683,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2776,7 +2723,7 @@
           "color": 2,
           "ip": "192.168.2.24",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.2.1.1",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -2871,7 +2818,7 @@
           "id": "PM4.2",
           "name": "Political Journey ",
           "system_type": "",
-          "description": "",
+          "description": "The political journey of Chaudhary Charan Singh started in 1929, when he joined the freedom movement. He established his name as the most popular peasant leader.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm4/PMP4.1.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -2893,16 +2840,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -2933,9 +2871,9 @@
           "description": "After the Emergency, the 1977 elections brought a heterogeneous Janata Party to power, but along with power came struggle. Chaudhry Charan Singh was given the charge of Home.\nThe rift surfaced in June 1978 between Chaudhary Charan Singh and Shri Morarji Desai when Prime Minister Morarji Desai asked Chaudhary Charan Singh to resign.\nChaudhary Charan Singh returned to the Janata Cabinet in January 1979, with the elevated status of Deputy Prime Minister and Finance as his portfolio. Instead of restoring stability, this only spurred ambition and factionalism in the cabinet.\nOn 16 July 1979 Chaudhary Charan Singh, with the socialist leader Raj Narain as his strategist, broke away to form the Janata (Secular) Party.\nChaudhary Charan Singh's support increased in the Lok Sabha. He claimed majority.\nSpeech: \nThe political situation is good, nice and we are going to make a government under the leadership of Chaudhary Charan Singh. \nA secret deal with the Congress was also being negotiated by Shri Raj Narain.\nOn 23 July, the Congress extended the support and on 26 July, President Neelam Sanjeeva Reddy invited Charan Singh to head the new government. The same day Chaudhary Charan Singh was sworn in as the Prime Minister of India.\n\"I, Charan Singh, take an oath to God that I will bear true faith and allegiance to the Constitution of India as established by law.\"\n“If the country has to rise, then efforts have to be made. We all have to make efforts. I include myself in that, I include all my fellow ministers who are sitting here that we all will have to make relentless efforts, then only this country will grow.”",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm4/PMP4.3.jpg?raw=true",
           "color": 2,
-          "ip": "192.168.1.6",
+          "ip": "192.168.2.63",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.2.1.1.1",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -2989,7 +2927,7 @@
           "id": "PM4.4",
           "name": "Resignation, 6th Lok Sabha Dissolved and Demise ",
           "system_type": "",
-          "description": "",
+          "description": "Chaudhary Charan Singh formed his government with the outside support of Smt Gandhi’s Congress. But his government could not even survive for a whole month, as Smt Gandhi withdrew her support from his government. He tendered his resignation, and the Lok Sabha was dissolved.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm4/PMP4.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3011,16 +2949,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3101,7 +3030,7 @@
           "color": 2,
           "ip": "192.168.2.33",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.1",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -3196,7 +3125,7 @@
           "id": "PM5.2",
           "name": "The Shah Bano Case",
           "system_type": "",
-          "description": "",
+          "description": "A 62-year-old lady, Shah Bano was divorced by her husband through the Triple Talaq method. She sought help from the courts. In the meantime, the Muslim Women [Protection of Rights on Divorce] Act of 1986 denied Shah Bano her sustenance.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3218,16 +3147,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3277,16 +3197,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3319,7 +3230,7 @@
           "color": 2,
           "ip": "192.168.2.36",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.3",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -3417,9 +3328,9 @@
           "description": "Shri Rajiv Gandhi revolutionized communication systems through computerization. He expanded the use of computers in administration, which had been very limited till then.\n“Development must relate to science, and science must relate to development. It's only then we will be getting the answers, we will be getting the speed of development that we are looking for.\"\nIndian Railways became an exemplary instance of the benefits of technological modernisation. Passengers long used to tedious queues and a black market in tickets were delighted to discover that they could now book seats through a computerized reservation system.\nA few political parties began a mass campaign against computerization, claiming that it would reduce jobs and sneering that, computers did not sit well on bullock carts. Their protests were ignored.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.5.jpg?raw=true",
           "color": 2,
-          "ip": "192.168.1.6",
+          "ip": "192.168.2.38",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.4",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -3473,7 +3384,7 @@
           "id": "PM5.6",
           "name": "The Punjab Accord, the Assam Accordand the Mizo Peace Accord",
           "system_type": "",
-          "description": "",
+          "description": "The separatist movements had paralyzed states of Punjab, Assam and Mizoram. Shri Rajiv Gandhi made successful efforts to establish peace in these regions by signing peace accords with the respective leaders of these states.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3495,16 +3406,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3532,7 +3434,7 @@
           "id": "PM5.7",
           "name": "Operation Black Thunder",
           "system_type": "",
-          "description": "",
+          "description": "Operation Black Thunder was initiated by the Rajiv Gandhi government in order to drive the extremist groups from the Golden Temple. The operations were completed with the surrender of a number of secessionists.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3591,7 +3493,7 @@
           "id": "PM5.8",
           "name": "Foreign Policy ",
           "system_type": "",
-          "description": "",
+          "description": "In foreign policy, Shri Rajiv Gandhi strengthened bilateral engagements across the globe. He raised international awareness about Pakistan’s role in supporting terrorism in Punjab and Jammu and Kashmir. He developed warm relations with the US and Soviet Russia.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3613,16 +3515,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3689,9 +3582,9 @@
         },
         {
           "id": "PM5.9",
-          "name": "Bofors Gun and the Ganga Action Plan",
+          "name": "Bofors Gun ",
           "system_type": "",
-          "description": "",
+          "description": "The country signed a contract with the Swedish company Bofors in 1986. An allegation of bribes being paid to Congress leaders landed the government in trouble. The issue tarnished the image of the government, which became one of the main causes of the party’s defeat in the next general elections.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.9.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3713,16 +3606,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3747,15 +3631,65 @@
           "status": "open"
         },
         {
-          "id": "PM5.10.",
+          "id": "PM5.10",
+          "name": "The Ganga Action Plan",
+          "system_type": "",
+          "description": "With the objective of minimizing pollution and improving the water quality of India’s venerated river, Ganga, Shri Rajiv Gandhi announced the Ganga Action Plan in 1986.",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.9.jpg?raw=true",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "ChaudharyCharanSingh",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM5.11",
           "name": "Demise",
           "system_type": "",
           "description": "Shri Rajiv Gandhi was campaigning in Tamil Nadu on 21 May 1991.\nThe Liberation Tigers of Tamil Eelam (LTTE) had orchestrated Shri Rajiv Gandhi’s assassination to avenge his decision to send in the Indian Peace Keeping Force to intervene Srilanka’s Civil War.\nThe leader of the Tamil Liberation movement Prabhakaran was worried that if Shri Rajiv Gandhi returned as Prime Minister after the elections, he would send the Indian Army back into Sri Lanka.\nShri Rajiv Gandhi reached the venue of the public meeting at Sriperumbudur at around 10 PM. And was caught in the surge of the local people’s support and affection.\nDhanu, a suicide bomber, bowed down to signify that she wants to reverently touch Shri Rajiv Gandhi's feet. As he bent to raise her up, she activated the bomb tucked below her waist. That led to the brutal assassination of Shri Rajiv Gandhi.\nA young Prime Minister who was the harbinger of the generational change in the country, left the world at a young age. On 24 May 1991 Shri Rajiv Gandhi was cremated on the banks of Yamuna.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.10.jpg?raw=true",
           "color": 2,
-          "ip": "",
+          "ip": "192.168.2.44",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.8",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -3816,7 +3750,7 @@
           "id": "PM6.1",
           "name": "Early Life and Political Journey",
           "system_type": "",
-          "description": "",
+          "description": "Shri V.P. Singh was born in a princely family of Daiya Estate of Prayagraj and was adopted by the Raja of Manda. He was schooled in Prayagraj, Dehradun and Varanasi and went to Allahabad University and Pune University for higher education. His political career started in 1955, and in 1957 he joined the Bhoodan-Gramdan Movement of Acharya Vinoba Bhave. His stature in Congress party hierarchy started to rise from 1969.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.1.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3838,16 +3772,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3880,7 +3805,7 @@
           "color": 2,
           "ip": "192.168.2.52",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "FF.4.2",
           "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
@@ -3934,7 +3859,7 @@
           "id": "PM6.3",
           "name": "Challenges ",
           "system_type": "",
-          "description": "",
+          "description": "As Prime Minister, Shri V.P. Singh had to face aggressive separatist movements in Punjab and Kashmir, which badly affected the law and order of these states. ",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -3956,16 +3881,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -3998,7 +3914,7 @@
           "color": 2,
           "ip": "192.168.2.54",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.4.1",
           "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
@@ -4093,7 +4009,7 @@
           "id": "PM6.5",
           "name": "The National Commission for Women Act, the Prasar Bharati Bill, Kuwait Airliftand Fall of the Government",
           "system_type": "",
-          "description": "",
+          "description": "The V.P. Singh government introduced a Bill in the Lok Sabha to constitute a commission for women at the national level, which paved the way for the setting up of the National Commission for Women. The government also passed the Prasar Bharti Bill in order to establish a Broadcasting Corporation of India. During the first Gulf War, when Iraq invaded Kuwait, Air India operated many flights to airlift a sizeable Indian community stranded in Kuwait. In November 1990 Prime Minister Vishwanath Pratap Singh resigned after losing a vote of confidence in the Lok Sabha.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4115,16 +4031,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -4152,7 +4059,7 @@
           "id": "PM6.6",
           "name": "Demise",
           "system_type": "",
-          "description": "",
+          "description": "On 27 November 2008 Shri V.P. Singh passed away in Delhi.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4174,16 +4081,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -4223,7 +4121,7 @@
           "color": 2,
           "ip": "192.168.2.56",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.5.1",
           "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
@@ -4323,7 +4221,7 @@
           "color": 2,
           "ip": "192.168.2.60",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "BHARAT YATRA",
           "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
@@ -4377,7 +4275,7 @@
           "id": "PM7.3",
           "name": "As Prime Minister",
           "system_type": "",
-          "description": "",
+          "description": "In November 1990, Shri Chandra Shekhar formed a new political party. During the same period, the allies of the VP Singh government withdrew their support from the government. Backed by the Congress party, Shri Chandra Shekhar became the new Prime Minister of the country.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4399,16 +4297,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -4436,7 +4325,7 @@
           "id": "PM7.4",
           "name": "Economic Crisis",
           "system_type": "",
-          "description": "",
+          "description": "Shri Chandra Shekhar became Prime Minister amidst a sea of troubles, as there were rising inflation, a balance of payments problem, and rising oil prices exacerbated by Iraq’s invasion of Kuwait in August 1990.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4458,16 +4347,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -4536,7 +4416,7 @@
           "id": "PM7.5",
           "name": "Fall of the Government",
           "system_type": "",
-          "description": "",
+          "description": "After the Congress withdrew its support from the Chandra Shekhar government, the Prime Minister resigned from his post in March 1991, and fresh elections were scheduled for May-June, 1991.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4558,16 +4438,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -4595,7 +4466,7 @@
           "id": "PM7.6",
           "name": "Demise",
           "system_type": "",
-          "description": "",
+          "description": "After a long illness, on 8 July 2007, Shri Chandra Shekhar passed away in New Delhi.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4617,16 +4488,7 @@
             "status": ""
           },
           "type": "",
-          "audio_mp3_array": [
-            {
-              "name": "",
-              "text": "",
-              "mp3": "",
-              "active": 1,
-              "status": "",
-              "srt": ""
-            }
-          ],
+          "audio_mp3_array": [],
           "duration": "",
           "tag": [
             {
@@ -4761,7 +4623,7 @@
           "id": "PM8.2",
           "name": "Political Journey",
           "system_type": "",
-          "description": "",
+          "description": "Shri P.V. Narasimha Rao’s political endeavours started with the \"Vande Mataram\" liberation struggle. In 1957, he became an MLA. He was included in the Andhra Cabinet and, afterwords he became the Chief Minister of the state. Later he was included in the cabinets of Smt. Gandhi and Shri Rajiv Gandhi. ",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4820,7 +4682,7 @@
           "id": "PM8.3",
           "name": "Economic Reforms",
           "system_type": "",
-          "description": "",
+          "description": "Prime Minister, Shri P.V. Narasimha Rao, championed liberalization, privatization and globalization, thereby leading the economy to flourish. He heralded the end of the license-quota raj, opened the economy to domestic entrepreneurs, encouraged foreign direct investment (FDI). All these factors led to a surge in growth rate.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -4979,7 +4841,7 @@
           "id": "PM8.5",
           "name": "Missile Programme",
           "system_type": "",
-          "description": "",
+          "description": "During the tenure of Prime Minister, Shri Narasimha Rao, India’s missile programme made rapid strides. In this period, indigenously-made Prithvi-I missile and long-range Agni-I missile were successfully test launched.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5038,7 +4900,7 @@
           "id": "PM8.6",
           "name": "Challenges",
           "system_type": "",
-          "description": "",
+          "description": "Terrorist attacks and multiple blasts in Mumbai, as well as increased violence in Jammu and Kashmir and Punjab, posed significant challenges to the Rao government. Another challenge came from Ayodhya when on 6 December 1992 several activists entered the disputed site of Shri Ram’s birthplace.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5097,7 +4959,7 @@
           "id": "PM8.7",
           "name": "Panchayati Raj",
           "system_type": "",
-          "description": "",
+          "description": "In an effort to strengthen the democracy at grassroots level, the government, under the leadership of the Prime Minister, Shri Narasimha Rao, introduced the Panchayati Raj representing 73rd and 74th Amendments to the Constitution.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5156,7 +5018,7 @@
           "id": "PM8.8",
           "name": "A New Era of Indian Television",
           "system_type": "",
-          "description": "",
+          "description": "A new era in Indian television started during the term of Prime Minister Shri Rao. Communication satellites were launched to make all-India transmission of Doordarshan’s Metro channel possible. With the liberalisation of the entertainment markets, international private channels were also permitted to telecast their programmes in the country.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5256,7 +5118,7 @@
           "id": "PM8.9",
           "name": "Stock Exchange Cartel",
           "system_type": "",
-          "description": "",
+          "description": "The securities scam was executed by diverting bank funds worth Rs 3,500 crore to a cartel. In 1992, the scam was exposed, and subsequently, the stock market crashed by 72 percent. A committee was appointed to investigate, and a special court was set up for trials.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.9.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5315,7 +5177,7 @@
           "id": "PM8.10",
           "name": "No-Confidence Motion and Last Phase",
           "system_type": "",
-          "description": "",
+          "description": "In 1993, Prime Minister, Shri Narasimha Rao faced a No-Confidence Motion in the House, which was defeated. The Congress was eventually routed out in the General Elections of 1996. On 23 December, 2004, the Prime Minister lost his battle against cancer in New Delhi.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm8/PMP8.10.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5422,7 +5284,7 @@
           "id": "PM9.1",
           "name": "Early Life",
           "system_type": "",
-          "description": "",
+          "description": "In his political life, Shri Deve Gowda stressed on the issues related to farmers and worked extensively for the socially and economically backward sections of the society. He started his political journey as a student leader, and became an MLA, Minister and Chief Minister of Karnataka in years to come.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.1.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5522,7 +5384,7 @@
           "id": "PM9.2",
           "name": "Political Journey",
           "system_type": "",
-          "description": "",
+          "description": "In his political life, Shri Deve Gowda stressed on the issues related to farmers and worked extensively for the socially and economically backward sections of the society. He started his political journey as a student leader, and became an MLA, Minister and Chief Minister of Karnataka in years to come.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5581,7 +5443,7 @@
           "id": "PM9.3",
           "name": "Making of a Prime Minister ",
           "system_type": "",
-          "description": "",
+          "description": "After the 1996 general elections, a coalition government of United Front was formed, which chose Shri Deve Gowda as its nominee for Prime Minister, who was then serving as the Chief Minister of Karnataka.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5640,7 +5502,7 @@
           "id": "PM9.4",
           "name": "The Representation of the People (Amendment) Act,1996",
           "system_type": "",
-          "description": "",
+          "description": "Shri Deve Gowda’s government took an important step towards comprehensive electoral reform by introducing Representation of the People (Amendment) Act which enhanced the powers of the Election Commission’s observer in a constituency.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5740,7 +5602,7 @@
           "id": "PM9.5",
           "name": "Major Decisions",
           "system_type": "",
-          "description": "",
+          "description": "The policies of Shri Deve Gowda’s government were mainly focused on the rural sector in irrigation, power, fertilizer, procurement, and storage. He also emphasized rural employment.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5799,7 +5661,7 @@
           "id": "PM9.6",
           "name": "Fall of the Government",
           "system_type": "",
-          "description": "",
+          "description": "In 1997, Congress withdrew its support from the Third Front government, causing the fall of the government. Shri Deve Gowda left office in Delhi but remained in active politics at the State level.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -5965,7 +5827,7 @@
           "id": "PM10.2",
           "name": "Political Journey",
           "system_type": "",
-          "description": "",
+          "description": "After independence, Shri I.K. Gujral joined Indian National Congress. He was given different portfolios in Smt. Indira Gandhi’s cabinet, first as Union Minister of State for Parliamentary Affairs and Communications, and then, as the Minister of Information and Broadcasting. He also served as an Ambassador to Soviet Union in 1976.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -6024,7 +5886,7 @@
           "id": "PM10.3",
           "name": "As Prime Minister and the Gujral Doctrine",
           "system_type": "",
-          "description": "",
+          "description": "After independence, Shri I.K. Gujral joined Indian National Congress. He was given different portfolios in Smt. Indira Gandhi’s cabinet, first as Union Minister of State for Parliamentary Affairs and Communications, and then, as the Minister of Information and Broadcasting. He also served as an Ambassador to Soviet Union in 1976.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -6083,7 +5945,7 @@
           "id": "PM10.4",
           "name": "Visit to South Africa and Fall of the Government",
           "system_type": "",
-          "description": "",
+          "description": "On the home front, Shri Gujral faced ambitions of the Congress party and rivalries between the coalition partners, which finally led to the fall of the government.",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -6183,7 +6045,7 @@
           "id": "PM10.5",
           "name": "General Elections of 1998, Retirement and Demise",
           "system_type": "",
-          "description": " ",
+          "description": " In 1998 general elections, though Shri Gujral won from his constituency, his party collapsed. After his retirement from politics, he settled into a regular routine of reading and writing, which he continued till his demise in 2012. ",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11013,7 +10875,7 @@
           "color": 2,
           "ip": "192.168.2.2",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.1.1.1",
           "adjacent_zone": [
             3,
             5,
@@ -11112,7 +10974,7 @@
           "id": "PM3.2",
           "name": "राजनीतिक यात्रा - 1937 से 1963 ",
           "system_type": "",
-          "description": "",
+          "description": "प्रधानमंत्री शास्त्री जी एवं श्रीमती गांधी के कार्यकाल के दौरान श्री मोरारजी देसाई की राजनीतिक यात्रा ने नया रुख़ लिया।\nउनके और श्रीमती गांधी के बीच निरंतर बढ़ते मतभेदों के कारण दोनों के बीच दूरियाँ बढ़ती रहीं और अंततः श्री मोरारजी देसाई ने कांग्रेस पार्टी छोड़ दी।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11171,7 +11033,7 @@
           "id": "PM3.3",
           "name": "राजनीतिक यात्रा - 1963 से 1975",
           "system_type": "",
-          "description": "",
+          "description": "1975 में उन्होंने गुजरात में विपक्षी दलों के गठबंधन जनता मोर्चा के गठन में महत्वपूर्ण भूमिका निभाई, जिसने राज्य में नई सरकार बनाई। उसी वर्ष जून में आपातकाल की घोषणा हो जाने से मोरारजी देसाई सहित अनेक नेताओं को जेल भेज दिया गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11230,7 +11092,7 @@
           "id": "PM3.4",
           "name": "जनता मोर्चा का गठन और आपातकाल की घोषणा",
           "system_type": "",
-          "description": "",
+          "description": "1975 में उन्होंने गुजरात में विपक्षी दलों के गठबंधन जनता मोर्चा के गठन में महत्वपूर्ण भूमिका निभाई, जिसने राज्य में नई सरकार बनाई। उसी वर्ष जून में आपातकाल की घोषणा हो जाने से मोरारजी देसाई सहित अनेक नेताओं को जेल भेज दिया गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11330,7 +11192,7 @@
           "id": "PM3.5",
           "name": "Making of a Prime Minister ",
           "system_type": "",
-          "description": "",
+          "description": "1977 के ऐतिहासिक चुनावों में जनता पार्टी सत्ता में आई और श्री मोरारजी देसाई प्रधानमंत्री बने, जो कद और अनुभव के मामले में सरकार का नेतृत्व करने के लिए स्पष्ट पसंद थे।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11389,7 +11251,7 @@
           "id": "PM3.6",
           "name": "शपथ एवं विजय रैली",
           "system_type": "",
-          "description": "",
+          "description": "सरकार बनाने के बाद जनता पार्टी के नेताओं ने राजघाट पर महात्मा गांधी को श्रद्धांजलि दी और नि:स्वार्थ भाव से राष्ट्र की सेवा करने का संकल्प लिया। उन्होंने दिल्ली के रामलीला मैदान में एक विशाल जनसभा की।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11448,7 +11310,7 @@
           "id": "PM3.7",
           "name": "श्री देसाई की विचारधारा, नागालैंड में पहल और नोटबंदी",
           "system_type": "",
-          "description": "",
+          "description": "श्री मोरारजी देसाई के विचार उनके निर्णयों में परिलक्षित होते थे। उन्होंने नागालैंड में अपनी पहल और उच्च मूल्य के करेंसी नोटों के विमुद्रीकरण से देश को चौंका दिया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11512,7 +11374,7 @@
           "color": 2,
           "ip": "192.168.2.10",
           "ble_mac": "",
-          "quppa_zone": "zone1",
+          "quppa_zone": "FF.1.4.1",
           "adjacent_zone": [],
           "zone": {
             "name": "MorarjiDesai",
@@ -11607,7 +11469,7 @@
           "id": "PM3.9",
           "name": "प्रेस की स्वतंत्रता",
           "system_type": "",
-          "description": "",
+          "description": "आपातकाल के दौरान, श्रीमती गांधी की सरकार ने प्रेस की स्वतंत्रता पर अंकुश लगाया दिया था। श्री मोरारजी देसाई की सरकार ने प्रेस की स्वतंत्रता सुनिश्चित करने के लिए पहल की।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11666,7 +11528,7 @@
           "id": "PM3.10.",
           "name": "विदेश नीति",
           "system_type": "",
-          "description": "",
+          "description": "श्री मोरारजी देसाई की सरकार ने इज़राइल के साथ अच्छे संबंध बनाए और पाकिस्तान एवं चीन सहित सभी देशों के साथ शांतिपूर्ण संबंध स्थापित किए।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11766,7 +11628,7 @@
           "id": "PM3.11",
           "name": "आंतरिक राजनीतिक संघर्ष, राजनीति से संन्यास और अंतिम चरण",
           "system_type": "",
-          "description": "",
+          "description": "सुशासन के बावजूद जनता सरकार के भीतर सत्ता संघर्ष नियंत्रित नहीं रह सका। आपसी दूरियाँ बढ़ती गईं जिनके कारण 1979 के मध्य तक जनता पार्टी विभाजित हो गई।\n1995 में 99 वर्ष की उम्र में श्री देसाई का निधन हो गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm3/PMP3.11.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11836,7 +11698,7 @@
           "color": 2,
           "ip": "192.168.2.24",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.2.1.1",
           "adjacent_zone": [
             3,
             5,
@@ -11935,7 +11797,7 @@
           "id": "PM4.2",
           "name": "राजनीतिक यात्रा",
           "system_type": "",
-          "description": "",
+          "description": "1929 में स्वतंत्रता आंदोलन में शामिल होने के साथ चौधरी चरण सिंह की राजनीतिक यात्रा का आरंभ हुआ। वह सबसे लोकप्रिय किसान नेता के रूप में प्रसिद्ध हुए।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm4/PMP4.1.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -11997,9 +11859,9 @@
           "description": "आपातकाल के बाद 1977 के लोकसभा चुनावों में विजयी होकर मत वैभिन्न्य से युक्त जनता पार्टी सत्ता में आई, लेकिन सत्ताप्राप्ति के साथ ही संघर्ष की भी शुरुआत हुई। चौधरी चरण सिंह को गृह मंत्रालय का दायित्व सौंपा गया।\nजून 1978 में चौधरी चरण सिंह और श्री मोरारजी देसाई के बीच मतभेद उभरे, जब प्रधानमंत्री मोरारजी देसाई ने चौधरी चरण सिंह से इस्तीफा देने को कहा।\nजनवरी 1979 में चौधरी चरण सिंह बढ़े हुए रुतबे के साथ उप-प्रधानमंत्री और वित्त मंत्री के रूप में जनता कैबिनेट में वापस लौट आए। इससे सरकार में स्थिरता आने की जगह महत्वाकांक्षा और गुटबंदी को ही बढ़ावा मिला।\n16 जुलाई 1979 को चौधरी चरण सिंह ने अपने रणनीतिकार समाजवादी नेता राज नारायण के साथ जनता पार्टी (सेकुलर) बनाने के लिए पार्टी तोड़ दी।\nलोकसभा में चौधरी चरण सिंह का समर्थन बढ़ा। उन्होंने बहुमत का दावा किया।\n“राजनीतिक स्थिति अच्छी है, बेहतर है और हम चौधरी चरण सिंह के नेतृत्व में सरकार बनाने जा रहे हैं।“\nश्री राज नारायण के द्वारा कांग्रेस के साथ एक गुप्त बातचीत भी चल रही थी।\n23 जुलाई को कांग्रेस ने उन्हें समर्थन दिया और 26 जुलाई को राष्ट्रपति नीलम संजीव रेड्डी ने चौधरी चरण सिंह को नई सरकार का नेतृत्व करने के लिए आमंत्रित किया। उसी दिन उन्होंने प्रधानमंत्री पद की शपथ ली।\n“मैं चरण सिंह, ईश्वर की शपथ लेता हूं कि मैं विधि द्वारा स्थापित भारत के संविधान के प्रति सच्ची श्रद्धा और निष्ठा रखूंगा।“\n“अगर देश को उठना है तो पुरुषार्थ करना होगा। हम सब को पुरुषार्थ करना होगा। मैं अपने आप को उसमें शामिल करता हूँ, अपने जो सहयोगी मिनिस्टरान यहां बैठे हैं उन सब को शामिल करता हूं कि हम सब को अनवरत परिश्रम करना पड़ेगा तब जाकर ये देश उठेगा।“",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm4/PMP4.3.jpg?raw=true",
           "color": 2,
-          "ip": "192.168.1.6",
+          "ip": "192.168.2.63",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.2.1.1.1",
           "adjacent_zone": [],
           "zone": {
             "name": "ChaudharyCharanSingh",
@@ -12053,7 +11915,7 @@
           "id": "PM4.4",
           "name": "त्यागपत्र, 6वीं लोक सभा का विघटन और निधन",
           "system_type": "",
-          "description": "",
+          "description": "चौधरी चरण सिंह ने श्रीमती गांधी की कांग्रेस के बाहरी समर्थन से सरकार बनाई। लेकिन उनकी सरकार एक महीने भी नहीं चल सकी, क्योंकि श्रीमती गांधी ने उनकी सरकार से अपना समर्थन वापस ले लिया। उन्होंने अपना त्यागपत्र दे दिया और लोकसभा भंग कर दी गई।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm4/PMP4.4.jpg?raw=true",
           "color": 2,
           "ip": "127.0.0.1",
@@ -12164,7 +12026,7 @@
           "color": 2,
           "ip": "192.168.2.33",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.1",
           "adjacent_zone": [
             3,
             5,
@@ -12263,7 +12125,7 @@
           "id": "PM5.2",
           "name": "शाह बानो प्रकरण",
           "system_type": "",
-          "description": "",
+          "description": "62 वर्ष की श्रीमती शाह बानो को उनके पति ने ट्रिपल तलाक के द्वारा तलाक दे दिया। उन्होंने अदालतों से सहायता माँगी। इस बीच, 1986 के मुस्लिम महिला [तलाक पर अधिकारों का संरक्षण] अधिनियम लागू हुआ, जिसके कारण शाह बानो अपने भरण-पोषण से वंचित हो गईं।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12320,9 +12182,9 @@
         },
         {
           "id": "PM5.3",
-          "name": "आर्थिक सुधार",
+          "name": "पाँच प्रमुख नीतियाँ, दल बदल विरोधी कानून, पंचायती राज और प्रौद्योगिकी मिशन",
           "system_type": "",
-          "description": "पाँच प्रमुख नीतियाँ, दल बदल विरोधी कानून, पंचायती राज और प्रौद्योगिकी मिशन",
+          "description": "श्री राजीव गांधी ने पाँच प्रमुख क्षेत्रों में परिवर्तन प्रस्तुत किए – ये क्षेत्र थे, विज्ञान और प्रौद्योगिकी, अर्थव्यवस्था, प्रशासन, उपभोक्ता संरक्षण और संस्थागत सुधार। वह दलबदल विरोधी कानून लाए और पंचायती राज व्यवस्था का आरमभ किया। आम जनता के लिए बुनियादी सुविधाओं को बढ़ाने के लिए उनके नेतृत्व में छह प्रौद्योगिकी मिशन स्थापित किए गए।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12386,7 +12248,7 @@
           "color": 2,
           "ip": "192.168.2.36",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.3",
           "adjacent_zone": [],
           "zone": {
             "name": "RajivGandhi",
@@ -12484,9 +12346,9 @@
           "description": "श्री राजीव गांधी ने कम्प्यूटरीकरण के माध्यम से संचार प्रणालियों में क्रांति लाने का काम किया। उन्होंने प्रशासन में कंप्यूटर के उपयोग का विस्तार किया, जो उस समय तक बहुत सीमित था।\n\"विकास का संबंध विज्ञान से होना चाहिए और विज्ञान का संबंध विकास से होना चाहिए। इसके बाद ही हमें सारे जवाब मिलेंगे, हमें विकास की वह गति मिलेगी, जिसकी हम तलाश कर रहे हैं।\"\nभारतीय रेल तकनीकी आधुनिकीकरण के लाभों का एक अनुकरणीय उदाहरण बन गया। लंबी कतारों में लगने और टिकटों की कालाबाजारी के आदी यात्री यह जान कर खुश थे कि वे अब कम्प्यूटरीकृत आरक्षण प्रणाली के माध्यम से सीटें बुक करा सकते हैं।\nकुछ राजनीतिक दलों ने कम्प्यूटरीकरण के विरुद्ध एक जन-अभियान शुरू किया और दावा किया कि इससे नौकरियां कम हो जाएंगी। उन्होंने यह भी उपहास किया कि कम्प्यूटर बैलगाड़ियों पर ठीक से नहीं बैठ पाएंगे। उनके विरोध को महत्व नहीं दिया गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.5.jpg?raw=true",
           "color": 2,
-          "ip": "192.168.1.6",
+          "ip": "192.168.2.38",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.4",
           "adjacent_zone": [],
           "zone": {
             "name": "RajivGandhi",
@@ -12540,7 +12402,7 @@
           "id": "PM5.6",
           "name": "पंजाब समझौता, असम समझौता\nऔर मिज़ो शांति समझौता",
           "system_type": "",
-          "description": "",
+          "description": "अलगाववादी आंदोलनों के कारण पंजाब, असम और मिज़ोरम राज्य पंगु बन गए थे। श्री राजीव गांधी ने इन तीनों राज्यों के नेताओं के साथ शांति समझौते पर हस्ताक्षर करके इन क्षेत्रों में शांति स्थापित करने के सफल प्रयास किए।\n",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12599,7 +12461,7 @@
           "id": "PM5.7",
           "name": "ऑपरेशन ब्लैक थंडर ",
           "system_type": "",
-          "description": "",
+          "description": "अमृतसर में स्वर्ण मंदिर से चरमपंथी समूहों को बाहर निकालने के लिए श्री राजीव गांधी की सरकार ने ऑपरेशन ब्लैक थंडर आरंभ किया। इसके अंतर्गत अनेक अलगाववादियों ने आत्मसमर्पण किया और ऑपरेशन पूरा हुआ।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.7.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12658,7 +12520,7 @@
           "id": "PM5.8",
           "name": "विदेश नीति",
           "system_type": "",
-          "description": "",
+          "description": "विदेश नीति के मामले में श्री राजीव गांधी ने दुनिया भर के देशों के साथ द्विपक्षीय संबंध मज़बूत किए। उन्होंने पंजाब और जम्मू एवं कश्मीर में आतंकवाद को बढ़ावा देने में पाकिस्तान की भूमिका के बारे में अंतर्राष्ट्रीय जागरूकता बढ़ाई। उन्होंने अमेरिका और सोवियत रूस दोनों के साथ मधुर संबंध विकसित किए।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.8.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12756,9 +12618,9 @@
         },
         {
           "id": "PM5.9",
-          "name": "बोफोर्स तोप और गंगा कार्य योजना",
+          "name": "बोफोर्स तोप",
           "system_type": "",
-          "description": "",
+          "description": "1986 में देश ने स्वीडिश कंपनी बोफ़ोर्स के साथ अनुबंध पर हस्ताक्षर किए। इस विषय में कांग्रेस नेताओं पर रिश्वत लेने का आरोप लगाया गया, जिसने सरकार को मुश्किल में डाल दिया। इसके कारण सरकार की छवि पर विपरीत प्रभाव पड़ा और अगले आम चुनावों में यह मुद्दा पार्टी की हार का मुख्य कारण बना।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.9.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12814,15 +12676,74 @@
           "status": "open"
         },
         {
-          "id": "PM5.10.",
+          "id": "PM5.10",
+          "name": "गंगा कार्य योजना",
+          "system_type": "",
+          "description": "भारत की पूजनीय गंगा नदी के प्रदूषण को कम करने और पानी की गुणवत्ता में सुधार लाने के उद्देश्य से श्री राजीव गांधी ने 1986 में गंगा कार्य योजना की घोषणा की।",
+          "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.9.jpg?raw=true",
+          "color": 2,
+          "ip": "",
+          "ble_mac": "",
+          "quppa_zone": "",
+          "adjacent_zone": [],
+          "zone": {
+            "name": "RajivGandhi",
+            "description": "",
+            "active": 1,
+            "status": ""
+          },
+          "floor": {
+            "name": "GF",
+            "description": "Ground Floor",
+            "image": "",
+            "tenure": "",
+            "active": 1,
+            "status": ""
+          },
+          "type": "",
+          "audio_mp3_array": [
+            {
+              "name": "",
+              "text": "",
+              "mp3": "",
+              "active": 1,
+              "status": "",
+              "srt": ""
+            }
+          ],
+          "duration": "",
+          "tag": [
+            {
+              "name": "",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "attraction": [
+            {
+              "name": "7 D Theatre",
+              "description": "",
+              "image": "",
+              "active": 1,
+              "status": ""
+            }
+          ],
+          "mcq": [],
+          "active": 1,
+          "status": "open"
+        },
+        {
+          "id": "PM5.11",
           "name": "निधन",
           "system_type": "",
           "description": "21 मई 1991 को श्री राजीव गांधी तमिलनाडु में चुनाव प्रचार कर रहे थे।\nलिबरेशन टाइगर्स ऑफ तमिल ईलम (एलटीटीई) ने श्रीलंका के गृहयुद्ध में हस्तक्षेप करने हेतु भारतीय शांति सेना भेजने के उनके फैसले का बदला लेने के लिए श्री राजीव गांधी की हत्या की साजिश रची थी।\nलिट्टे के विद्रोही नेता प्रभाकरन को चिंता थी कि यदि\nश्री राजीव गांधी चुनाव के बाद दुबारा प्रधानमंत्री के रूप में वापस आते हैं तो वे भारतीय सेना को श्रीलंका वापस भेज देंगे।\nश्री राजीव गांधी लगभग 10 बजे श्रीपेरंबदूर में जनसभा स्थल पर पहुंचे और स्थानीय लोगों के समर्थन और स्नेह की लहर में घिर गए।\nतभी धनु नाम की एक आत्मघाती हमलावर श्री राजीव गांधी के पैर छूने के बहाने से नीचे झुकी, जैसे ही वे उसको उठाने के लिए झुके उसने अपने शरीर में छिपे बम को सक्रिय कर दिया। इसके कारण श्री राजीव गांधी की निर्मम हत्या हुई।\nआने वाली पीढ़ियों के लिए बदलावों की नींव रखने वाले युवा प्रधानमंत्री ने युवावस्था में ही दुनिया छोड़ दी। 24 मई 1991 को दिल्ली में यमुना-तट पर श्री राजीव गांधी का अंतिम संस्कार किया गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm5/PMP5.10.jpg?raw=true",
           "color": 2,
-          "ip": "",
+          "ip": "192.168.2.44",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.3.8",
           "adjacent_zone": [],
           "zone": {
             "name": "RajivGandhi",
@@ -12882,7 +12803,7 @@
           "id": "PM6.1",
           "name": "आरंभिक जीवन और राजनीतिक यात्रा",
           "system_type": "",
-          "description": "",
+          "description": "श्री वी.पी. सिंह का जन्म प्रयागराज के डैया रियासत में हुआ था और उन्हें मांडा के राजा ने गोद लिया था। उन्होंने प्रयागराज, देहरादून और वाराणसी में स्कूली शिक्षा प्राप्त की और उच्च शिक्षा के लिए इलाहाबाद विश्वविद्यालय और पुणे विश्वविद्यालय गए। उनका राजनीतिक जीवन 1955 में शुरू हुआ और 1957 में वह आचार्य विनोबा भावे के भूदान-ग्रामदान आंदोलन में शामिल हुए। 1969 से कांग्रेस पार्टी में उनकी प्रतिष्ठा बढ़नी शुरू हुई।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.1.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -12982,7 +12903,7 @@
           "color": 2,
           "ip": "192.168.2.52",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "FF.4.2",
           "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
@@ -13036,7 +12957,7 @@
           "id": "PM6.3",
           "name": "चुनौतियाँ",
           "system_type": "",
-          "description": "",
+          "description": "प्रधानमंत्री के रूप में श्री वी.पी. सिंह को पंजाब और कश्मीर में आक्रामक अलगाववादी आंदोलनों का सामना करना पड़ा, जिनके कारण इन राज्यों की कानून व्यवस्था बुरी तरह प्रभावित थीं।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -13100,7 +13021,7 @@
           "color": 2,
           "ip": "192.168.2.54",
           "ble_mac": "",
-          "quppa_zone": "",
+          "quppa_zone": "FF.4.1",
           "adjacent_zone": [],
           "zone": {
             "name": "V.P.Singh",
@@ -13195,7 +13116,7 @@
           "id": "PM6.5",
           "name": "राष्ट्रीय महिला आयोग अधिनियम, प्रसार भारती अधिनियम, कुवैत एयरलिफ्ट   \nऔर सरकार का पतन",
           "system_type": "",
-          "description": "",
+          "description": "वी.पी. सिंह सरकार ने राष्ट्रीय स्तर पर महिला आयोग के गठन के लिए लोक सभा में एक बिल प्रस्तुत किया, जिसने भविष्य में राष्ट्रीय महिला आयोग की स्थापना के लिए रास्ते खोले। भारतीय प्रसारण निगम की स्थापना करने के उद्देश्य से सरकार ने प्रसार भारती विधेयक भी पारित किया। पहले खाड़ी युद्ध के दौरान जब ईराक़ ने कुवैत पर हमला किया उस समय कुवैत में बड़ी संख्या में फँसे भारतीय समुदाय के लोगों को भारत वापस लाने के लिए एयर इंडिया ने अनेक विमान भेजे। नवंबर 1990 में लोक सभा में विश्वास मत हारने के बाद प्रधानमंत्री विश्वनाथ प्रताप सिंह ने त्यागपत्र दे दिया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.5.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -13254,7 +13175,7 @@
           "id": "PM6.6",
           "name": "निधन",
           "system_type": "",
-          "description": "",
+          "description": "27 नवंबर 2008 को दिल्ली में श्री वीपी सिंह का निधन हो गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm6/PMP6.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -13324,7 +13245,7 @@
           "color": 2,
           "ip": "192.168.2.56",
           "ble_mac": "00:A0:50:4D:36:B3",
-          "quppa_zone": "",
+          "quppa_zone": "FF.5.1",
           "adjacent_zone": [
             3,
             5,
@@ -13428,7 +13349,7 @@
           "color": 2,
           "ip": "192.168.2.60",
           "ble_mac": "00:A0:50:8D:54:8D",
-          "quppa_zone": "",
+          "quppa_zone": "BHARAT YATRA",
           "adjacent_zone": [],
           "zone": {
             "name": "ChandraShekhar",
@@ -13482,7 +13403,7 @@
           "id": "PM7.3",
           "name": "प्रधानमंत्री पद",
           "system_type": "",
-          "description": "",
+          "description": "नवंबर 1990 में श्री चंद्रशेखर ने नए राजनीतिक दल का गठन किया। इसी दौरान वीपी सिंह सरकार के सहयोगी दलों ने सरकार से अपना समर्थन वापस ले लिया। कांग्रेस पार्टी के समर्थन से श्री चंद्रशेखर देश के नए प्रधानमंत्री बने।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -13541,7 +13462,7 @@
           "id": "PM7.4",
           "name": "आर्थिक संकट",
           "system_type": "",
-          "description": "",
+          "description": "श्री चंद्रशेखर उस समय प्रधानमंत्री बने जब देश अनेक संकटों के दौर से गुज़र रहा था - बढ़ती मुद्रास्फीति, भुगतान संतुलन की समस्या और अगस्त 1990 में कुवैत पर इराक के आक्रमण के कारण तेल की बढ़ती क़ीमतें देश को घेरे हुई थीं।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -13632,7 +13553,7 @@
           "id": "PM7.5",
           "name": "सरकार का पतन",
           "system_type": "",
-          "description": "",
+          "description": "कांग्रेस द्वारा चंद्रशेखर सरकार से अपना समर्थन वापस लेने के बाद, मार्च 1991 में प्रधानमंत्री ने अपने पद से त्यागपत्र दे दिया और मई-जून, 1991 में नए चुनाव होने की घोषणा की गई।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -13691,7 +13612,7 @@
           "id": "PM7.6",
           "name": "निधन",
           "system_type": "",
-          "description": "",
+          "description": "लंबी बीमारी के बाद 8 जुलाई 2007 को श्री चंद्रशेखर का नई दिल्ली में निधन हो गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm7/PMP7.6.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -14520,7 +14441,7 @@
           "id": "PM9.1",
           "name": "आरंभिक जीवन",
           "system_type": "",
-          "description": "",
+          "description": "भारत के 12वें प्रधानमंत्री श्री इंदर कुमार गुजराल का जन्म 4 दिसंबर 1919 को झेलम शहर में हुआ था, जो अब पाकिस्तान के पंजाब क्षेत्र में है।\nउनके पिता एवं प्रसिद्ध वकील श्री अवतार नारायण गुजराल आर्य समाज और लाला लाजपत राय के नेतृत्व से प्रेरित सुधारक भी थे। जनसेवा उनके परिवार के रक्त में थी। श्री इंदर कुमार गुजराल की माता श्रीमती पुष्पा गुजराल ने महिलाओं की मुक्ति और वंचित बच्चों की शिक्षा के लिए काम किया, इस मिशन को उन्होंने जीवनपर्यंत जारी रखा। दोनों स्वाधीनता आन्दोलन के उत्साही भागीदार थे।\nश्री इंदर कुमार गुजराल 12 साल के थे जब 23 वर्षीय राष्ट्रवादी क्रांतिकारी भगत सिंह को ब्रिटिश पुलिस अधिकारी जॉन सॉन्डर्स की हत्या के कारण लाहौर सेंट्रल जेल में फांसी दी गई।\nशहीद भगत सिंह एक राष्ट्रीय नायक बन गए। भगत सिंह के प्रति महात्मा गांधी के उदासीन रवैये के कारण युवा श्री इंदर कुमार गुजराल का महात्मा गांधी से मोहभंग हो गया, भारत की स्वतंत्रता के लिए भी महात्मा हिंसा को अनदेखा नहीं कर सकते थे। श्री इंदर कुमार गुजराल की राष्ट्रवाद की बढ़ती हुई भावना कम होने वाली नहीं थी। एक किशोर के रूप में उन्होंने अंग्रेजों के विरोध में नारे लगाने वाले युवाओं के जुलूस का नेतृत्व किया।\nस्पष्ट रूप से भगत सिंह की समाजवादी विचारधारा का भी उन पर प्रभाव पड़ा। कॉलेज के दौरान इंदर कुमार गुजराल भारतीय कम्युनिस्ट पार्टी (सीपीआई) में शामिल हो गए और छात्र संघ के अध्यक्ष तथा पंजाब छात्र संघ के महासचिव बने।\nअपनी आत्मकथा में श्री गुजराल ने लिखा, “मैंने अपनी विश्वविद्यालय स्तर की शिक्षा डीएवी कॉलेज में शुरू की। शिक्षा के माध्यम में परिवर्तन का सामना करना मेरे लिए कठिन था। स्कूल स्तर पर यह उर्दू माध्यम था और अंग्रेजी माध्यम में आना एक तरह से सांस्कृतिक आघात की तरह था। विज्ञान पाठ्यक्रम से जुड़कर मैंने कठिनाई और बढ़ा ली, जो मेरी समझ से परे था।\nपरिणाम के रूप में मेरा एक साल खराब हो गया। मैंने अर्थशास्त्र में मास्टर डिग्री प्राप्त करने के लिए हैली कॉलेज ऑफ कॉमर्स और अंत में फोरमेन क्रिश्चियन कॉलेज में दाखिला लिया।”\nइसने उन्हें चार्टर्ड एकाउंटेंसी लेने के योग्य बनाया।\nहिटलर द्वारा सोवियत संघ पर आक्रमण के बाद जब भाकपा ने द्वितीय विश्व युद्ध में मॉस्को की राह का अनुसरण किया और युद्ध के प्रयास में अंग्रेजों की सहयोगी बन गई, तो वे कम्युनिस्ट पार्टी से अलग हो गए। हालांकि श्री गुजराल ने भाकपा द्वारा प्रायोजित 'फ्रेंड्स ऑफ़ सोवियत युनियन' के साथ काम करना जारी रखा। [अंतरराष्ट्रीय समर्थन की सोवियत लामबंदी के हिस्से के रूप में 1927 में गठित]।\nश्री इंदर कुमार गुजराल उन स्वतंत्रता सेनानियों में से थे जिन्हें औपनिवेशिक शासन के विरोध में अंग्रेजों ने जेल में डाल दिया था। उन्हें \"छात्रों की गैरकानूनी सभा\" का नेतृत्व करने के लिए लाहौर बोरस्टल जेल में बंद किया गया गया था।\nअगस्त 1942 में श्री इंदर कुमार गुजराल ने गांधीजी के \"भारत छोड़ो\" के आह्वान का अनुसरण करते हुए प्रदर्शनों में भाग लिया और उन्हें फिर से हिरासत में ले लिया गया, जहां से वे लंबी कानूनी लड़ाई के बाद ही बरी हो सके। विश्वविद्यालयीय शिक्षा के बाद श्री इंदर कुमार गुजराल परिवार के लकड़ी के व्यवसाय में सम्मिलित होने के लिए झेलम वापस चले गए। यह गृहस्थी बसाने का भी समय था, 1945 में उन्होंने लाहौर में अपनी सहपाठी शील से शादी की।\nजब अगस्त 1947 में आजादी मिली तो इंदर कुमार गुजराल के पिता श्री अवतार नारायण गुजराल पाकिस्तान की संविधान सभा के सदस्य थे। लेकिन विभाजन के कारण बिखरे हुए लाखों लोगों के साथ गुजराल अपने पुरखों के घर को पाकिस्तान में छोड़कर उस विराट भारत-प्रवास से जुड़ गए और दिल्ली में शरण ली।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.1.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -14624,7 +14545,7 @@
           "id": "PM9.2",
           "name": "राजनीतिक यात्रा",
           "system_type": "",
-          "description": "",
+          "description": "श्री देवेगौड़ा ने अपने राजनीतिक जीवन में किसानों से संबंधित मुद्दों पर बल दिया और समाज के सामाजिक एवं आर्थिक रूप से पिछड़े वर्गों के उत्थान के लिए अनेक कार्य किए। उन्होंने अपनी राजनीतिक यात्रा का आरंभ छात्र नेता के रूप में किया और आने वाले वर्षों में वह कर्णाटक के विधायक, मंत्री और फिर मुख्यमंत्री बने।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -14683,7 +14604,7 @@
           "id": "PM9.3",
           "name": "प्रधानमंत्री पद पर नियुक्ति",
           "system_type": "",
-          "description": "",
+          "description": "1996 के आम चुनावों के बाद संयुक्त मोर्चा की गठबंधन सरकार बनी जिसने प्रधानमंत्री पद के लिए अपने उम्मीदवार के रूप में श्री देवेगौड़ा को चुना, जो उस समय कर्णाटक के मुख्यमंत्री के रूप में कार्यरत थे।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -14742,7 +14663,7 @@
           "id": "PM9.4",
           "name": "जन प्रतिनिधित्व (संशोधन) अधिनियम,1996",
           "system_type": "",
-          "description": "",
+          "description": "श्री देवेगौड़ा की सरकार ने लोगों का प्रतिनिधित्व (संशोधन) अधिनियम पेश करके व्यापक चुनावी सुधार की दिशा में एक महत्वपूर्ण कदम उठाया, जिसके ज़रिए किसी निर्वाचन क्षेत्र में चुनाव आयोग के पर्यवेक्षक की शक्तियाँ बढ़ गईं।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -14842,7 +14763,7 @@
           "id": "PM9.5",
           "name": "प्रमुख निर्णय",
           "system_type": "",
-          "description": "",
+          "description": "श्री देवेगौड़ा की सरकार की प्रमुख नीतियाँ ग्रामीण क्षेत्र में सिंचाई, बिजली, उर्वरक, खरीद और भंडारण पर केंद्रित थीं। उन्होंने ग्रामीण रोज़गार को भी महत्त्व दिया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -14901,7 +14822,7 @@
           "id": "PM9.6",
           "name": "सरकार का पतन",
           "system_type": "",
-          "description": "",
+          "description": "1997 में कांग्रेस ने तीसरे मोर्चे की सरकार से अपना समर्थन वापस ले लिया, जिसके कारण सरकार गिर गई। श्री देवेगौड़ा ने दिल्ली में अपना पद छोड़ दिया लेकिन राज्य स्तर पर वह सक्रिय राजनीति में बने रहे।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm9/PMP9.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -15066,7 +14987,7 @@
           "id": "PM10.2",
           "name": "राजनीतिक यात्रा",
           "system_type": "",
-          "description": "",
+          "description": "स्वतंत्रता के बाद श्री इंद्र कुमार गुजराल भारतीय राष्ट्रीय कांग्रेस में शामिल हुए। श्रीमती इंदिरा गांधी की कैबिनेट में उन्हें अलग-अलग विभाग दिए गए - पहले संसदीय मामलों और संचार राज्य मंत्री के रूप में, और फिर सूचना एवं प्रसारण मंत्री के रूप में। 1976 में उन्हें सोवियत संघ में भारतीय राजदूत के रूप में भी नियुक्त किया गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.2.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -15125,7 +15046,7 @@
           "id": "PM10.3",
           "name": "प्रधानमंत्री पद और गुजराल सिद्धांत",
           "system_type": "",
-          "description": "",
+          "description": "1997 में जिस समय श्री इंद्र कुमार गुजराल भारत के प्रधानमंत्री बने, उसी वर्ष देश ब्रिटिश शासन से स्वतंत्रता की 50 वीं वर्षगांठ भी मना रहा था। उन्होंने प्रधानमंत्री कार्यालय की सत्य-निष्ठा को बनाए रखा और भ्रष्टाचार के आरोपी किसी भी सार्वजनिक व्यक्ति को बचाने के लिए कभी हस्तक्षेप नहीं किया। गुजराल सिद्धांत के नाम से लोकप्रिय उनकी विदेश नीति को व्यापक रूप से सराहा गया।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.3.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -15184,7 +15105,7 @@
           "id": "PM10.4",
           "name": "दक्षिण अफ्रीका का दौरा और सरकार का पतन",
           "system_type": "",
-          "description": "",
+          "description": "स्वदेश में श्री गुजराल को कांग्रेस पार्टी की महत्वाकांक्षाओं और गठबंधन के सहयोगियों के बीच परस्पर विरोध का सामना करना पड़ा, जिनके कारण अंततः सरकार गिर गई।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.4.jpg?raw=true",
           "color": 2,
           "ip": "",
@@ -15284,7 +15205,7 @@
           "id": "PM10.5",
           "name": "आम चुनाव, 1998, राजनीति से संन्यास और निधन",
           "system_type": "",
-          "description": "",
+          "description": "1998 के आम चुनाव में यद्यपि श्री इंद्र गुजराल काफ़ी अधिक मतों से विजयी हुए, लेकिन उनकी पार्टी हार गई। राजनीति से संन्यास के बाद वह पढ़ने और लिखने की नियमित दिनचर्या में लग गए, जिसे 2012 में अपने निधन तक उन्होंने जारी रखा।",
           "image": "https://github.com/arshneetkathuria/exhibit_info/blob/master/pm10/PMP10.5.jpg?raw=true",
           "color": 2,
           "ip": "",
